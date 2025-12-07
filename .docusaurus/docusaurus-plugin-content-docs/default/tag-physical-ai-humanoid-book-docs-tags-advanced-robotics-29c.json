@@ -1,0 +1,15 @@
+{
+  "label": "advanced-robotics",
+  "permalink": "/physical-ai-humanoid-book/docs/tags/advanced-robotics",
+  "allTagsPath": "/physical-ai-humanoid-book/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "module4/index",
+      "title": "Module 4 - Vision-Language-Action (VLA)",
+      "description": "Understanding Vision-Language-Action systems for advanced robotics",
+      "permalink": "/physical-ai-humanoid-book/docs/module4/"
+    }
+  ],
+  "unlisted": false
+}

@@ -1,0 +1,87 @@
+{
+  "label": "robotics",
+  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics",
+  "allTagsPath": "/physical-ai-humanoid-book/docs/tags",
+  "count": 13,
+  "items": [
+    {
+      "id": "module3/isaac_ai_concepts",
+      "title": "AI Concepts for Robotics",
+      "description": "Understanding fundamental AI concepts applied to robotics using Isaac",
+      "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_ai_concepts"
+    },
+    {
+      "id": "module2/gazebo_basics",
+      "title": "Gazebo Simulation Basics",
+      "description": "Understanding the fundamentals of Gazebo simulation platform",
+      "permalink": "/physical-ai-humanoid-book/docs/module2/gazebo_basics"
+    },
+    {
+      "id": "module1/index",
+      "title": "Module 1 - ROS 2 Robotic Nervous System",
+      "description": "Introduction to Robot Operating System 2 - the nervous system of modern robotics",
+      "permalink": "/physical-ai-humanoid-book/docs/module1/"
+    },
+    {
+      "id": "module2/index",
+      "title": "Module 2 - Digital Twin (Gazebo & Unity)",
+      "description": "Understanding Digital Twin technology with Gazebo and Unity simulation platforms",
+      "permalink": "/physical-ai-humanoid-book/docs/module2/"
+    },
+    {
+      "id": "module3/index",
+      "title": "Module 3 - NVIDIA Isaac AI-Robot Brain",
+      "description": "Understanding NVIDIA Isaac platform for AI-powered robotics",
+      "permalink": "/physical-ai-humanoid-book/docs/module3/"
+    },
+    {
+      "id": "module4/index",
+      "title": "Module 4 - Vision-Language-Action (VLA)",
+      "description": "Understanding Vision-Language-Action systems for advanced robotics",
+      "permalink": "/physical-ai-humanoid-book/docs/module4/"
+    },
+    {
+      "id": "module3/isaac_overview",
+      "title": "NVIDIA Isaac Platform Overview",
+      "description": "Understanding the NVIDIA Isaac platform for AI-powered robotics",
+      "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_overview"
+    },
+    {
+      "id": "module2/unity_integration",
+      "title": "Unity Integration in Robotics",
+      "description": "Understanding Unity as a digital twin platform for robotics",
+      "permalink": "/physical-ai-humanoid-book/docs/module2/unity_integration"
+    },
+    {
+      "id": "module4/vla_architecture",
+      "title": "VLA Architecture and Integration",
+      "description": "Understanding the architectural design of Vision-Language-Action systems",
+      "permalink": "/physical-ai-humanoid-book/docs/module4/vla_architecture"
+    },
+    {
+      "id": "module4/capstone_project",
+      "title": "VLA Capstone Project",
+      "description": "Comprehensive capstone project integrating all VLA concepts",
+      "permalink": "/physical-ai-humanoid-book/docs/module4/capstone_project"
+    },
+    {
+      "id": "module4/vla_exercises",
+      "title": "VLA Exercises",
+      "description": "Practice exercises for Vision-Language-Action systems",
+      "permalink": "/physical-ai-humanoid-book/docs/module4/vla_exercises"
+    },
+    {
+      "id": "module4/vla_fundamentals",
+      "title": "VLA Fundamentals",
+      "description": "Understanding the fundamental concepts of Vision-Language-Action systems",
+      "permalink": "/physical-ai-humanoid-book/docs/module4/vla_fundamentals"
+    },
+    {
+      "id": "module4/vla_integration",
+      "title": "VLA Integration Patterns",
+      "description": "Advanced integration patterns for Vision-Language-Action systems",
+      "permalink": "/physical-ai-humanoid-book/docs/module4/vla_integration"
+    }
+  ],
+  "unlisted": false
+}

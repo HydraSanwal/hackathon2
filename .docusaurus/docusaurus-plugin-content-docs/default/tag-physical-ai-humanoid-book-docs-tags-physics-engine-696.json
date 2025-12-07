@@ -1,0 +1,15 @@
+{
+  "label": "physics-engine",
+  "permalink": "/physical-ai-humanoid-book/docs/tags/physics-engine",
+  "allTagsPath": "/physical-ai-humanoid-book/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "module2/gazebo_basics",
+      "title": "Gazebo Simulation Basics",
+      "description": "Understanding the fundamentals of Gazebo simulation platform",
+      "permalink": "/physical-ai-humanoid-book/docs/module2/gazebo_basics"
+    }
+  ],
+  "unlisted": false
+}

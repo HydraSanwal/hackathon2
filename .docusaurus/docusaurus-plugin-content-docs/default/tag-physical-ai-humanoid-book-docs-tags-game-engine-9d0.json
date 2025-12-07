@@ -1,0 +1,15 @@
+{
+  "label": "game-engine",
+  "permalink": "/physical-ai-humanoid-book/docs/tags/game-engine",
+  "allTagsPath": "/physical-ai-humanoid-book/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "module2/unity_integration",
+      "title": "Unity Integration in Robotics",
+      "description": "Understanding Unity as a digital twin platform for robotics",
+      "permalink": "/physical-ai-humanoid-book/docs/module2/unity_integration"
+    }
+  ],
+  "unlisted": false
+}

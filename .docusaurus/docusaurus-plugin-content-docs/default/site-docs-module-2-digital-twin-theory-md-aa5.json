@@ -1,0 +1,57 @@
+{
+  "id": "module2/digital_twin_theory",
+  "title": "Digital Twin Theory and Concepts",
+  "description": "Understanding the theoretical foundations of Digital Twin technology",
+  "source": "@site/docs/module2/digital_twin_theory.md",
+  "sourceDirName": "module2",
+  "slug": "/module2/digital_twin_theory",
+  "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_theory",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module2/digital_twin_theory.md",
+  "tags": [
+    {
+      "label": "digital-twin",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/digital-twin"
+    },
+    {
+      "label": "theory",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/theory"
+    },
+    {
+      "label": "concepts",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/concepts"
+    },
+    {
+      "label": "simulation",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/simulation"
+    },
+    {
+      "label": "modeling",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/modeling"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Digital Twin Theory and Concepts",
+    "sidebar_position": 4,
+    "description": "Understanding the theoretical foundations of Digital Twin technology",
+    "tags": [
+      "digital-twin",
+      "theory",
+      "concepts",
+      "simulation",
+      "modeling"
+    ]
+  },
+  "sidebar": "module2Sidebar",
+  "previous": {
+    "title": "Unity Integration in Robotics",
+    "permalink": "/physical-ai-humanoid-book/docs/module2/unity_integration"
+  },
+  "next": {
+    "title": "Digital Twin Code Examples",
+    "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_examples"
+  }
+}

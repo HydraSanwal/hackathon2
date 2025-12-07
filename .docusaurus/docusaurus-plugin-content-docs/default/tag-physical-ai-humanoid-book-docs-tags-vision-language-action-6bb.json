@@ -1,0 +1,51 @@
+{
+  "label": "vision-language-action",
+  "permalink": "/physical-ai-humanoid-book/docs/tags/vision-language-action",
+  "allTagsPath": "/physical-ai-humanoid-book/docs/tags",
+  "count": 7,
+  "items": [
+    {
+      "id": "module4/index",
+      "title": "Module 4 - Vision-Language-Action (VLA)",
+      "description": "Understanding Vision-Language-Action systems for advanced robotics",
+      "permalink": "/physical-ai-humanoid-book/docs/module4/"
+    },
+    {
+      "id": "module4/vla_architecture",
+      "title": "VLA Architecture and Integration",
+      "description": "Understanding the architectural design of Vision-Language-Action systems",
+      "permalink": "/physical-ai-humanoid-book/docs/module4/vla_architecture"
+    },
+    {
+      "id": "module4/capstone_project",
+      "title": "VLA Capstone Project",
+      "description": "Comprehensive capstone project integrating all VLA concepts",
+      "permalink": "/physical-ai-humanoid-book/docs/module4/capstone_project"
+    },
+    {
+      "id": "module4/vla_examples",
+      "title": "VLA Code Examples",
+      "description": "Text-based code examples demonstrating Vision-Language-Action systems",
+      "permalink": "/physical-ai-humanoid-book/docs/module4/vla_examples"
+    },
+    {
+      "id": "module4/vla_exercises",
+      "title": "VLA Exercises",
+      "description": "Practice exercises for Vision-Language-Action systems",
+      "permalink": "/physical-ai-humanoid-book/docs/module4/vla_exercises"
+    },
+    {
+      "id": "module4/vla_fundamentals",
+      "title": "VLA Fundamentals",
+      "description": "Understanding the fundamental concepts of Vision-Language-Action systems",
+      "permalink": "/physical-ai-humanoid-book/docs/module4/vla_fundamentals"
+    },
+    {
+      "id": "module4/vla_integration",
+      "title": "VLA Integration Patterns",
+      "description": "Advanced integration patterns for Vision-Language-Action systems",
+      "permalink": "/physical-ai-humanoid-book/docs/module4/vla_integration"
+    }
+  ],
+  "unlisted": false
+}

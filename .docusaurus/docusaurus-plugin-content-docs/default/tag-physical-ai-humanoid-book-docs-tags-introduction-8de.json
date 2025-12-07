@@ -1,0 +1,21 @@
+{
+  "label": "introduction",
+  "permalink": "/physical-ai-humanoid-book/docs/tags/introduction",
+  "allTagsPath": "/physical-ai-humanoid-book/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "module1/ros2_intro",
+      "title": "Introduction to ROS 2",
+      "description": "Understanding the fundamentals of Robot Operating System 2",
+      "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_intro"
+    },
+    {
+      "id": "module1/index",
+      "title": "Module 1 - ROS 2 Robotic Nervous System",
+      "description": "Introduction to Robot Operating System 2 - the nervous system of modern robotics",
+      "permalink": "/physical-ai-humanoid-book/docs/module1/"
+    }
+  ],
+  "unlisted": false
+}

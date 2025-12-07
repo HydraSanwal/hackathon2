@@ -1,0 +1,53 @@
+{
+  "id": "module2/digital_twin_exercises",
+  "title": "Digital Twin Exercises",
+  "description": "Practice exercises with solutions for Digital Twin concepts",
+  "source": "@site/docs/module2/digital_twin_exercises.md",
+  "sourceDirName": "module2",
+  "slug": "/module2/digital_twin_exercises",
+  "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_exercises",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module2/digital_twin_exercises.md",
+  "tags": [
+    {
+      "label": "digital-twin",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/digital-twin"
+    },
+    {
+      "label": "exercises",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/exercises"
+    },
+    {
+      "label": "practice",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/practice"
+    },
+    {
+      "label": "simulation",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/simulation"
+    },
+    {
+      "label": "problems",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/problems"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Digital Twin Exercises",
+    "sidebar_position": 6,
+    "description": "Practice exercises with solutions for Digital Twin concepts",
+    "tags": [
+      "digital-twin",
+      "exercises",
+      "practice",
+      "simulation",
+      "problems"
+    ]
+  },
+  "sidebar": "module2Sidebar",
+  "previous": {
+    "title": "Digital Twin Code Examples",
+    "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_examples"
+  }
+}

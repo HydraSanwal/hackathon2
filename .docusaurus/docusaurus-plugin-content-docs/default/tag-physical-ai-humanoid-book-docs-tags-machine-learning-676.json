@@ -1,0 +1,15 @@
+{
+  "label": "machine-learning",
+  "permalink": "/physical-ai-humanoid-book/docs/tags/machine-learning",
+  "allTagsPath": "/physical-ai-humanoid-book/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "module3/isaac_ai_concepts",
+      "title": "AI Concepts for Robotics",
+      "description": "Understanding fundamental AI concepts applied to robotics using Isaac",
+      "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_ai_concepts"
+    }
+  ],
+  "unlisted": false
+}

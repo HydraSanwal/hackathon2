@@ -1,0 +1,21 @@
+{
+  "label": "unity",
+  "permalink": "/physical-ai-humanoid-book/docs/tags/unity",
+  "allTagsPath": "/physical-ai-humanoid-book/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "module2/index",
+      "title": "Module 2 - Digital Twin (Gazebo & Unity)",
+      "description": "Understanding Digital Twin technology with Gazebo and Unity simulation platforms",
+      "permalink": "/physical-ai-humanoid-book/docs/module2/"
+    },
+    {
+      "id": "module2/unity_integration",
+      "title": "Unity Integration in Robotics",
+      "description": "Understanding Unity as a digital twin platform for robotics",
+      "permalink": "/physical-ai-humanoid-book/docs/module2/unity_integration"
+    }
+  ],
+  "unlisted": false
+}

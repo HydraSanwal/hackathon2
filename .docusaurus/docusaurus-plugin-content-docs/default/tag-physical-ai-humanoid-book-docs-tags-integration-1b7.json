@@ -1,0 +1,21 @@
+{
+  "label": "integration",
+  "permalink": "/physical-ai-humanoid-book/docs/tags/integration",
+  "allTagsPath": "/physical-ai-humanoid-book/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "module4/capstone_project",
+      "title": "VLA Capstone Project",
+      "description": "Comprehensive capstone project integrating all VLA concepts",
+      "permalink": "/physical-ai-humanoid-book/docs/module4/capstone_project"
+    },
+    {
+      "id": "module4/vla_integration",
+      "title": "VLA Integration Patterns",
+      "description": "Advanced integration patterns for Vision-Language-Action systems",
+      "permalink": "/physical-ai-humanoid-book/docs/module4/vla_integration"
+    }
+  ],
+  "unlisted": false
+}

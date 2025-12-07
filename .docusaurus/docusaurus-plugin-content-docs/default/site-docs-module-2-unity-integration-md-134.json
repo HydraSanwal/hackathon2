@@ -1,0 +1,57 @@
+{
+  "id": "module2/unity_integration",
+  "title": "Unity Integration in Robotics",
+  "description": "Understanding Unity as a digital twin platform for robotics",
+  "source": "@site/docs/module2/unity_integration.md",
+  "sourceDirName": "module2",
+  "slug": "/module2/unity_integration",
+  "permalink": "/physical-ai-humanoid-book/docs/module2/unity_integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module2/unity_integration.md",
+  "tags": [
+    {
+      "label": "unity",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/unity"
+    },
+    {
+      "label": "digital-twin",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/digital-twin"
+    },
+    {
+      "label": "simulation",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/simulation"
+    },
+    {
+      "label": "game-engine",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/game-engine"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Unity Integration in Robotics",
+    "sidebar_position": 3,
+    "description": "Understanding Unity as a digital twin platform for robotics",
+    "tags": [
+      "unity",
+      "digital-twin",
+      "simulation",
+      "game-engine",
+      "robotics"
+    ]
+  },
+  "sidebar": "module2Sidebar",
+  "previous": {
+    "title": "Gazebo Simulation Basics",
+    "permalink": "/physical-ai-humanoid-book/docs/module2/gazebo_basics"
+  },
+  "next": {
+    "title": "Digital Twin Theory and Concepts",
+    "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_theory"
+  }
+}

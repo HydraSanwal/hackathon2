@@ -1,0 +1,53 @@
+{
+  "id": "module3/isaac_exercises",
+  "title": "Isaac Exercises",
+  "description": "Practice exercises with solutions for NVIDIA Isaac concepts",
+  "source": "@site/docs/module3/isaac_exercises.md",
+  "sourceDirName": "module3",
+  "slug": "/module3/isaac_exercises",
+  "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_exercises",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module3/isaac_exercises.md",
+  "tags": [
+    {
+      "label": "nvidia-isaac",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/nvidia-isaac"
+    },
+    {
+      "label": "exercises",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/exercises"
+    },
+    {
+      "label": "practice",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/practice"
+    },
+    {
+      "label": "ai-robotics",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/ai-robotics"
+    },
+    {
+      "label": "problems",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/problems"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Isaac Exercises",
+    "sidebar_position": 6,
+    "description": "Practice exercises with solutions for NVIDIA Isaac concepts",
+    "tags": [
+      "nvidia-isaac",
+      "exercises",
+      "practice",
+      "ai-robotics",
+      "problems"
+    ]
+  },
+  "sidebar": "module3Sidebar",
+  "previous": {
+    "title": "Isaac Code Examples",
+    "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_examples"
+  }
+}

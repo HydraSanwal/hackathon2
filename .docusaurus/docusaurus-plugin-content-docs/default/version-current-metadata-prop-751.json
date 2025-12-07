@@ -1,0 +1,388 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "module1Sidebar": [
+      {
+        "type": "category",
+        "label": "Module 1: ROS 2 Robotic Nervous System",
+        "items": [
+          {
+            "type": "link",
+            "label": "Module 1 - ROS 2 Robotic Nervous System",
+            "href": "/physical-ai-humanoid-book/docs/module1/",
+            "docId": "module1/index",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Introduction to ROS 2",
+            "href": "/physical-ai-humanoid-book/docs/module1/ros2_intro",
+            "docId": "module1/ros2_intro",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "ROS 2 Architecture",
+            "href": "/physical-ai-humanoid-book/docs/module1/ros2_architecture",
+            "docId": "module1/ros2_architecture",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "ROS 2 Nodes and Communication Patterns",
+            "href": "/physical-ai-humanoid-book/docs/module1/ros2_nodes",
+            "docId": "module1/ros2_nodes",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "ROS 2 Code Examples",
+            "href": "/physical-ai-humanoid-book/docs/module1/ros2_examples",
+            "docId": "module1/ros2_examples",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "ROS 2 Exercises",
+            "href": "/physical-ai-humanoid-book/docs/module1/ros2_exercises",
+            "docId": "module1/ros2_exercises",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/physical-ai-humanoid-book/docs/module1/"
+      }
+    ],
+    "module2Sidebar": [
+      {
+        "type": "category",
+        "label": "Module 2: Digital Twin (Gazebo & Unity)",
+        "items": [
+          {
+            "type": "link",
+            "label": "Module 2 - Digital Twin (Gazebo & Unity)",
+            "href": "/physical-ai-humanoid-book/docs/module2/",
+            "docId": "module2/index",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Gazebo Simulation Basics",
+            "href": "/physical-ai-humanoid-book/docs/module2/gazebo_basics",
+            "docId": "module2/gazebo_basics",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Unity Integration in Robotics",
+            "href": "/physical-ai-humanoid-book/docs/module2/unity_integration",
+            "docId": "module2/unity_integration",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Digital Twin Theory and Concepts",
+            "href": "/physical-ai-humanoid-book/docs/module2/digital_twin_theory",
+            "docId": "module2/digital_twin_theory",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Digital Twin Code Examples",
+            "href": "/physical-ai-humanoid-book/docs/module2/digital_twin_examples",
+            "docId": "module2/digital_twin_examples",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Digital Twin Exercises",
+            "href": "/physical-ai-humanoid-book/docs/module2/digital_twin_exercises",
+            "docId": "module2/digital_twin_exercises",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/physical-ai-humanoid-book/docs/module2/"
+      }
+    ],
+    "module3Sidebar": [
+      {
+        "type": "category",
+        "label": "Module 3: NVIDIA Isaac AI-Robot Brain",
+        "items": [
+          {
+            "type": "link",
+            "label": "Module 3 - NVIDIA Isaac AI-Robot Brain",
+            "href": "/physical-ai-humanoid-book/docs/module3/",
+            "docId": "module3/index",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "NVIDIA Isaac Platform Overview",
+            "href": "/physical-ai-humanoid-book/docs/module3/isaac_overview",
+            "docId": "module3/isaac_overview",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Isaac Architecture and Components",
+            "href": "/physical-ai-humanoid-book/docs/module3/isaac_architecture",
+            "docId": "module3/isaac_architecture",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "AI Concepts for Robotics",
+            "href": "/physical-ai-humanoid-book/docs/module3/isaac_ai_concepts",
+            "docId": "module3/isaac_ai_concepts",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Isaac Code Examples",
+            "href": "/physical-ai-humanoid-book/docs/module3/isaac_examples",
+            "docId": "module3/isaac_examples",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Isaac Exercises",
+            "href": "/physical-ai-humanoid-book/docs/module3/isaac_exercises",
+            "docId": "module3/isaac_exercises",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/physical-ai-humanoid-book/docs/module3/"
+      }
+    ],
+    "module4Sidebar": [
+      {
+        "type": "category",
+        "label": "Module 4: Vision-Language-Action (VLA)",
+        "items": [
+          {
+            "type": "link",
+            "label": "Module 4 - Vision-Language-Action (VLA)",
+            "href": "/physical-ai-humanoid-book/docs/module4/",
+            "docId": "module4/index",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "VLA Fundamentals",
+            "href": "/physical-ai-humanoid-book/docs/module4/vla_fundamentals",
+            "docId": "module4/vla_fundamentals",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "VLA Architecture and Integration",
+            "href": "/physical-ai-humanoid-book/docs/module4/vla_architecture",
+            "docId": "module4/vla_architecture",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "VLA Integration Patterns",
+            "href": "/physical-ai-humanoid-book/docs/module4/vla_integration",
+            "docId": "module4/vla_integration",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "VLA Code Examples",
+            "href": "/physical-ai-humanoid-book/docs/module4/vla_examples",
+            "docId": "module4/vla_examples",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "VLA Exercises",
+            "href": "/physical-ai-humanoid-book/docs/module4/vla_exercises",
+            "docId": "module4/vla_exercises",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "VLA Capstone Project",
+            "href": "/physical-ai-humanoid-book/docs/module4/capstone_project",
+            "docId": "module4/capstone_project",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/physical-ai-humanoid-book/docs/module4/"
+      }
+    ]
+  },
+  "docs": {
+    "intro": {
+      "id": "intro",
+      "title": "Introduction",
+      "description": "Welcome to Physical AI & Humanoid Robotics: From Theory to Action"
+    },
+    "module1/index": {
+      "id": "module1/index",
+      "title": "Module 1 - ROS 2 Robotic Nervous System",
+      "description": "Introduction to Robot Operating System 2 - the nervous system of modern robotics",
+      "sidebar": "module1Sidebar"
+    },
+    "module1/ros2_architecture": {
+      "id": "module1/ros2_architecture",
+      "title": "ROS 2 Architecture",
+      "description": "Understanding the architectural design of Robot Operating System 2",
+      "sidebar": "module1Sidebar"
+    },
+    "module1/ros2_examples": {
+      "id": "module1/ros2_examples",
+      "title": "ROS 2 Code Examples",
+      "description": "Text-based code examples demonstrating ROS 2 concepts",
+      "sidebar": "module1Sidebar"
+    },
+    "module1/ros2_exercises": {
+      "id": "module1/ros2_exercises",
+      "title": "ROS 2 Exercises",
+      "description": "Practice exercises with solutions for ROS 2 concepts",
+      "sidebar": "module1Sidebar"
+    },
+    "module1/ros2_intro": {
+      "id": "module1/ros2_intro",
+      "title": "Introduction to ROS 2",
+      "description": "Understanding the fundamentals of Robot Operating System 2",
+      "sidebar": "module1Sidebar"
+    },
+    "module1/ros2_nodes": {
+      "id": "module1/ros2_nodes",
+      "title": "ROS 2 Nodes and Communication Patterns",
+      "description": "Understanding nodes, topics, services, and actions in ROS 2",
+      "sidebar": "module1Sidebar"
+    },
+    "module2/digital_twin_examples": {
+      "id": "module2/digital_twin_examples",
+      "title": "Digital Twin Code Examples",
+      "description": "Text-based code examples demonstrating Digital Twin concepts with Gazebo and Unity",
+      "sidebar": "module2Sidebar"
+    },
+    "module2/digital_twin_exercises": {
+      "id": "module2/digital_twin_exercises",
+      "title": "Digital Twin Exercises",
+      "description": "Practice exercises with solutions for Digital Twin concepts",
+      "sidebar": "module2Sidebar"
+    },
+    "module2/digital_twin_theory": {
+      "id": "module2/digital_twin_theory",
+      "title": "Digital Twin Theory and Concepts",
+      "description": "Understanding the theoretical foundations of Digital Twin technology",
+      "sidebar": "module2Sidebar"
+    },
+    "module2/gazebo_basics": {
+      "id": "module2/gazebo_basics",
+      "title": "Gazebo Simulation Basics",
+      "description": "Understanding the fundamentals of Gazebo simulation platform",
+      "sidebar": "module2Sidebar"
+    },
+    "module2/index": {
+      "id": "module2/index",
+      "title": "Module 2 - Digital Twin (Gazebo & Unity)",
+      "description": "Understanding Digital Twin technology with Gazebo and Unity simulation platforms",
+      "sidebar": "module2Sidebar"
+    },
+    "module2/unity_integration": {
+      "id": "module2/unity_integration",
+      "title": "Unity Integration in Robotics",
+      "description": "Understanding Unity as a digital twin platform for robotics",
+      "sidebar": "module2Sidebar"
+    },
+    "module3/index": {
+      "id": "module3/index",
+      "title": "Module 3 - NVIDIA Isaac AI-Robot Brain",
+      "description": "Understanding NVIDIA Isaac platform for AI-powered robotics",
+      "sidebar": "module3Sidebar"
+    },
+    "module3/isaac_ai_concepts": {
+      "id": "module3/isaac_ai_concepts",
+      "title": "AI Concepts for Robotics",
+      "description": "Understanding fundamental AI concepts applied to robotics using Isaac",
+      "sidebar": "module3Sidebar"
+    },
+    "module3/isaac_architecture": {
+      "id": "module3/isaac_architecture",
+      "title": "Isaac Architecture and Components",
+      "description": "Understanding the architectural design of NVIDIA Isaac platform",
+      "sidebar": "module3Sidebar"
+    },
+    "module3/isaac_examples": {
+      "id": "module3/isaac_examples",
+      "title": "Isaac Code Examples",
+      "description": "Text-based code examples demonstrating NVIDIA Isaac concepts",
+      "sidebar": "module3Sidebar"
+    },
+    "module3/isaac_exercises": {
+      "id": "module3/isaac_exercises",
+      "title": "Isaac Exercises",
+      "description": "Practice exercises with solutions for NVIDIA Isaac concepts",
+      "sidebar": "module3Sidebar"
+    },
+    "module3/isaac_overview": {
+      "id": "module3/isaac_overview",
+      "title": "NVIDIA Isaac Platform Overview",
+      "description": "Understanding the NVIDIA Isaac platform for AI-powered robotics",
+      "sidebar": "module3Sidebar"
+    },
+    "module4/capstone_project": {
+      "id": "module4/capstone_project",
+      "title": "VLA Capstone Project",
+      "description": "Comprehensive capstone project integrating all VLA concepts",
+      "sidebar": "module4Sidebar"
+    },
+    "module4/index": {
+      "id": "module4/index",
+      "title": "Module 4 - Vision-Language-Action (VLA)",
+      "description": "Understanding Vision-Language-Action systems for advanced robotics",
+      "sidebar": "module4Sidebar"
+    },
+    "module4/vla_architecture": {
+      "id": "module4/vla_architecture",
+      "title": "VLA Architecture and Integration",
+      "description": "Understanding the architectural design of Vision-Language-Action systems",
+      "sidebar": "module4Sidebar"
+    },
+    "module4/vla_examples": {
+      "id": "module4/vla_examples",
+      "title": "VLA Code Examples",
+      "description": "Text-based code examples demonstrating Vision-Language-Action systems",
+      "sidebar": "module4Sidebar"
+    },
+    "module4/vla_exercises": {
+      "id": "module4/vla_exercises",
+      "title": "VLA Exercises",
+      "description": "Practice exercises for Vision-Language-Action systems",
+      "sidebar": "module4Sidebar"
+    },
+    "module4/vla_fundamentals": {
+      "id": "module4/vla_fundamentals",
+      "title": "VLA Fundamentals",
+      "description": "Understanding the fundamental concepts of Vision-Language-Action systems",
+      "sidebar": "module4Sidebar"
+    },
+    "module4/vla_integration": {
+      "id": "module4/vla_integration",
+      "title": "VLA Integration Patterns",
+      "description": "Advanced integration patterns for Vision-Language-Action systems",
+      "sidebar": "module4Sidebar"
+    }
+  }
+}

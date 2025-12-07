@@ -1,0 +1,52 @@
+{
+  "id": "module1/ros2_nodes",
+  "title": "ROS 2 Nodes and Communication Patterns",
+  "description": "Understanding nodes, topics, services, and actions in ROS 2",
+  "source": "@site/docs/module1/ros2_nodes.md",
+  "sourceDirName": "module1",
+  "slug": "/module1/ros2_nodes",
+  "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_nodes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module1/ros2_nodes.md",
+  "tags": [
+    {
+      "label": "ros2",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/ros-2"
+    },
+    {
+      "label": "nodes",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/nodes"
+    },
+    {
+      "label": "communication",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/communication"
+    },
+    {
+      "label": "patterns",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/patterns"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "ROS 2 Nodes and Communication Patterns",
+    "sidebar_position": 4,
+    "description": "Understanding nodes, topics, services, and actions in ROS 2",
+    "tags": [
+      "ros2",
+      "nodes",
+      "communication",
+      "patterns"
+    ]
+  },
+  "sidebar": "module1Sidebar",
+  "previous": {
+    "title": "ROS 2 Architecture",
+    "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_architecture"
+  },
+  "next": {
+    "title": "ROS 2 Code Examples",
+    "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_examples"
+  }
+}

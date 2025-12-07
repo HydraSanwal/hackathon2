@@ -1,0 +1,21 @@
+{
+  "label": "gazebo",
+  "permalink": "/physical-ai-humanoid-book/docs/tags/gazebo",
+  "allTagsPath": "/physical-ai-humanoid-book/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "module2/gazebo_basics",
+      "title": "Gazebo Simulation Basics",
+      "description": "Understanding the fundamentals of Gazebo simulation platform",
+      "permalink": "/physical-ai-humanoid-book/docs/module2/gazebo_basics"
+    },
+    {
+      "id": "module2/index",
+      "title": "Module 2 - Digital Twin (Gazebo & Unity)",
+      "description": "Understanding Digital Twin technology with Gazebo and Unity simulation platforms",
+      "permalink": "/physical-ai-humanoid-book/docs/module2/"
+    }
+  ],
+  "unlisted": false
+}

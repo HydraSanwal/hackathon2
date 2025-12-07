@@ -1,0 +1,15 @@
+{
+  "label": "theory",
+  "permalink": "/physical-ai-humanoid-book/docs/tags/theory",
+  "allTagsPath": "/physical-ai-humanoid-book/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "module2/digital_twin_theory",
+      "title": "Digital Twin Theory and Concepts",
+      "description": "Understanding the theoretical foundations of Digital Twin technology",
+      "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_theory"
+    }
+  ],
+  "unlisted": false
+}

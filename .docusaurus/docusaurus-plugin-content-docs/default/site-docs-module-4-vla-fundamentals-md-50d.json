@@ -1,0 +1,57 @@
+{
+  "id": "module4/vla_fundamentals",
+  "title": "VLA Fundamentals",
+  "description": "Understanding the fundamental concepts of Vision-Language-Action systems",
+  "source": "@site/docs/module4/vla_fundamentals.md",
+  "sourceDirName": "module4",
+  "slug": "/module4/vla_fundamentals",
+  "permalink": "/physical-ai-humanoid-book/docs/module4/vla_fundamentals",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module4/vla_fundamentals.md",
+  "tags": [
+    {
+      "label": "vla",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/vla"
+    },
+    {
+      "label": "fundamentals",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/fundamentals"
+    },
+    {
+      "label": "vision-language-action",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/vision-language-action"
+    },
+    {
+      "label": "ai",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/ai"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "VLA Fundamentals",
+    "sidebar_position": 2,
+    "description": "Understanding the fundamental concepts of Vision-Language-Action systems",
+    "tags": [
+      "vla",
+      "fundamentals",
+      "vision-language-action",
+      "ai",
+      "robotics"
+    ]
+  },
+  "sidebar": "module4Sidebar",
+  "previous": {
+    "title": "Module 4 - Vision-Language-Action (VLA)",
+    "permalink": "/physical-ai-humanoid-book/docs/module4/"
+  },
+  "next": {
+    "title": "VLA Architecture and Integration",
+    "permalink": "/physical-ai-humanoid-book/docs/module4/vla_architecture"
+  }
+}

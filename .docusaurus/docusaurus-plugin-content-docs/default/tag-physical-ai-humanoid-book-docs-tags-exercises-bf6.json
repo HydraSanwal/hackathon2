@@ -1,0 +1,33 @@
+{
+  "label": "exercises",
+  "permalink": "/physical-ai-humanoid-book/docs/tags/exercises",
+  "allTagsPath": "/physical-ai-humanoid-book/docs/tags",
+  "count": 4,
+  "items": [
+    {
+      "id": "module2/digital_twin_exercises",
+      "title": "Digital Twin Exercises",
+      "description": "Practice exercises with solutions for Digital Twin concepts",
+      "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_exercises"
+    },
+    {
+      "id": "module3/isaac_exercises",
+      "title": "Isaac Exercises",
+      "description": "Practice exercises with solutions for NVIDIA Isaac concepts",
+      "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_exercises"
+    },
+    {
+      "id": "module1/ros2_exercises",
+      "title": "ROS 2 Exercises",
+      "description": "Practice exercises with solutions for ROS 2 concepts",
+      "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_exercises"
+    },
+    {
+      "id": "module4/vla_exercises",
+      "title": "VLA Exercises",
+      "description": "Practice exercises for Vision-Language-Action systems",
+      "permalink": "/physical-ai-humanoid-book/docs/module4/vla_exercises"
+    }
+  ],
+  "unlisted": false
+}

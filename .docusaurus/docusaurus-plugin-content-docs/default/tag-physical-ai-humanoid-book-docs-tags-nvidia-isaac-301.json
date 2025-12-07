@@ -1,0 +1,39 @@
+{
+  "label": "nvidia-isaac",
+  "permalink": "/physical-ai-humanoid-book/docs/tags/nvidia-isaac",
+  "allTagsPath": "/physical-ai-humanoid-book/docs/tags",
+  "count": 5,
+  "items": [
+    {
+      "id": "module3/isaac_architecture",
+      "title": "Isaac Architecture and Components",
+      "description": "Understanding the architectural design of NVIDIA Isaac platform",
+      "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_architecture"
+    },
+    {
+      "id": "module3/isaac_examples",
+      "title": "Isaac Code Examples",
+      "description": "Text-based code examples demonstrating NVIDIA Isaac concepts",
+      "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_examples"
+    },
+    {
+      "id": "module3/isaac_exercises",
+      "title": "Isaac Exercises",
+      "description": "Practice exercises with solutions for NVIDIA Isaac concepts",
+      "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_exercises"
+    },
+    {
+      "id": "module3/index",
+      "title": "Module 3 - NVIDIA Isaac AI-Robot Brain",
+      "description": "Understanding NVIDIA Isaac platform for AI-powered robotics",
+      "permalink": "/physical-ai-humanoid-book/docs/module3/"
+    },
+    {
+      "id": "module3/isaac_overview",
+      "title": "NVIDIA Isaac Platform Overview",
+      "description": "Understanding the NVIDIA Isaac platform for AI-powered robotics",
+      "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_overview"
+    }
+  ],
+  "unlisted": false
+}

@@ -1,0 +1,1577 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/physical-ai-humanoid-book/docs",
+          "tagsPath": "/physical-ai-humanoid-book/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\Hydra Sanwal\\Documents\\Claude\\hackathon2\\sidebars.js",
+          "contentPath": "C:\\Users\\Hydra Sanwal\\Documents\\Claude\\hackathon2\\docs",
+          "contentPathLocalized": "C:\\Users\\Hydra Sanwal\\Documents\\Claude\\hackathon2\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "intro",
+              "title": "Introduction",
+              "description": "Welcome to Physical AI & Humanoid Robotics: From Theory to Action",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/physical-ai-humanoid-book/docs/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Introduction",
+                "sidebar_position": 1,
+                "description": "Welcome to Physical AI & Humanoid Robotics: From Theory to Action",
+                "slug": "/"
+              }
+            },
+            {
+              "id": "module1/index",
+              "title": "Module 1 - ROS 2 Robotic Nervous System",
+              "description": "Introduction to Robot Operating System 2 - the nervous system of modern robotics",
+              "source": "@site/docs/module1/index.md",
+              "sourceDirName": "module1",
+              "slug": "/module1/",
+              "permalink": "/physical-ai-humanoid-book/docs/module1/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module1/index.md",
+              "tags": [
+                {
+                  "label": "ros2",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/ros-2"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                },
+                {
+                  "label": "introduction",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/introduction"
+                },
+                {
+                  "label": "fundamentals",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/fundamentals"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Module 1 - ROS 2 Robotic Nervous System",
+                "sidebar_position": 1,
+                "description": "Introduction to Robot Operating System 2 - the nervous system of modern robotics",
+                "tags": [
+                  "ros2",
+                  "robotics",
+                  "introduction",
+                  "fundamentals"
+                ]
+              },
+              "sidebar": "module1Sidebar",
+              "next": {
+                "title": "Module 1 - ROS 2 Robotic Nervous System",
+                "permalink": "/physical-ai-humanoid-book/docs/module1/"
+              }
+            },
+            {
+              "id": "module1/ros2_architecture",
+              "title": "ROS 2 Architecture",
+              "description": "Understanding the architectural design of Robot Operating System 2",
+              "source": "@site/docs/module1/ros2_architecture.md",
+              "sourceDirName": "module1",
+              "slug": "/module1/ros2_architecture",
+              "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_architecture",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module1/ros2_architecture.md",
+              "tags": [
+                {
+                  "label": "ros2",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/ros-2"
+                },
+                {
+                  "label": "architecture",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/architecture"
+                },
+                {
+                  "label": "design",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/design"
+                },
+                {
+                  "label": "communication",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/communication"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "ROS 2 Architecture",
+                "sidebar_position": 3,
+                "description": "Understanding the architectural design of Robot Operating System 2",
+                "tags": [
+                  "ros2",
+                  "architecture",
+                  "design",
+                  "communication"
+                ]
+              },
+              "sidebar": "module1Sidebar",
+              "previous": {
+                "title": "Introduction to ROS 2",
+                "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_intro"
+              },
+              "next": {
+                "title": "ROS 2 Nodes and Communication Patterns",
+                "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_nodes"
+              }
+            },
+            {
+              "id": "module1/ros2_examples",
+              "title": "ROS 2 Code Examples",
+              "description": "Text-based code examples demonstrating ROS 2 concepts",
+              "source": "@site/docs/module1/ros2_examples.md",
+              "sourceDirName": "module1",
+              "slug": "/module1/ros2_examples",
+              "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_examples",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module1/ros2_examples.md",
+              "tags": [
+                {
+                  "label": "ros2",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/ros-2"
+                },
+                {
+                  "label": "examples",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/examples"
+                },
+                {
+                  "label": "code",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/code"
+                },
+                {
+                  "label": "implementation",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/implementation"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "title": "ROS 2 Code Examples",
+                "sidebar_position": 5,
+                "description": "Text-based code examples demonstrating ROS 2 concepts",
+                "tags": [
+                  "ros2",
+                  "examples",
+                  "code",
+                  "implementation"
+                ]
+              },
+              "sidebar": "module1Sidebar",
+              "previous": {
+                "title": "ROS 2 Nodes and Communication Patterns",
+                "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_nodes"
+              },
+              "next": {
+                "title": "ROS 2 Exercises",
+                "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_exercises"
+              }
+            },
+            {
+              "id": "module1/ros2_exercises",
+              "title": "ROS 2 Exercises",
+              "description": "Practice exercises with solutions for ROS 2 concepts",
+              "source": "@site/docs/module1/ros2_exercises.md",
+              "sourceDirName": "module1",
+              "slug": "/module1/ros2_exercises",
+              "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_exercises",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module1/ros2_exercises.md",
+              "tags": [
+                {
+                  "label": "ros2",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/ros-2"
+                },
+                {
+                  "label": "exercises",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/exercises"
+                },
+                {
+                  "label": "practice",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/practice"
+                },
+                {
+                  "label": "problems",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/problems"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "title": "ROS 2 Exercises",
+                "sidebar_position": 6,
+                "description": "Practice exercises with solutions for ROS 2 concepts",
+                "tags": [
+                  "ros2",
+                  "exercises",
+                  "practice",
+                  "problems"
+                ]
+              },
+              "sidebar": "module1Sidebar",
+              "previous": {
+                "title": "ROS 2 Code Examples",
+                "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_examples"
+              }
+            },
+            {
+              "id": "module1/ros2_intro",
+              "title": "Introduction to ROS 2",
+              "description": "Understanding the fundamentals of Robot Operating System 2",
+              "source": "@site/docs/module1/ros2_intro.md",
+              "sourceDirName": "module1",
+              "slug": "/module1/ros2_intro",
+              "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module1/ros2_intro.md",
+              "tags": [
+                {
+                  "label": "ros2",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/ros-2"
+                },
+                {
+                  "label": "introduction",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/introduction"
+                },
+                {
+                  "label": "concepts",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/concepts"
+                },
+                {
+                  "label": "fundamentals",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/fundamentals"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "Introduction to ROS 2",
+                "sidebar_position": 2,
+                "description": "Understanding the fundamentals of Robot Operating System 2",
+                "tags": [
+                  "ros2",
+                  "introduction",
+                  "concepts",
+                  "fundamentals"
+                ]
+              },
+              "sidebar": "module1Sidebar",
+              "previous": {
+                "title": "Module 1 - ROS 2 Robotic Nervous System",
+                "permalink": "/physical-ai-humanoid-book/docs/module1/"
+              },
+              "next": {
+                "title": "ROS 2 Architecture",
+                "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_architecture"
+              }
+            },
+            {
+              "id": "module1/ros2_nodes",
+              "title": "ROS 2 Nodes and Communication Patterns",
+              "description": "Understanding nodes, topics, services, and actions in ROS 2",
+              "source": "@site/docs/module1/ros2_nodes.md",
+              "sourceDirName": "module1",
+              "slug": "/module1/ros2_nodes",
+              "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_nodes",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module1/ros2_nodes.md",
+              "tags": [
+                {
+                  "label": "ros2",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/ros-2"
+                },
+                {
+                  "label": "nodes",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/nodes"
+                },
+                {
+                  "label": "communication",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/communication"
+                },
+                {
+                  "label": "patterns",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/patterns"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "title": "ROS 2 Nodes and Communication Patterns",
+                "sidebar_position": 4,
+                "description": "Understanding nodes, topics, services, and actions in ROS 2",
+                "tags": [
+                  "ros2",
+                  "nodes",
+                  "communication",
+                  "patterns"
+                ]
+              },
+              "sidebar": "module1Sidebar",
+              "previous": {
+                "title": "ROS 2 Architecture",
+                "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_architecture"
+              },
+              "next": {
+                "title": "ROS 2 Code Examples",
+                "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_examples"
+              }
+            },
+            {
+              "id": "module2/digital_twin_examples",
+              "title": "Digital Twin Code Examples",
+              "description": "Text-based code examples demonstrating Digital Twin concepts with Gazebo and Unity",
+              "source": "@site/docs/module2/digital_twin_examples.md",
+              "sourceDirName": "module2",
+              "slug": "/module2/digital_twin_examples",
+              "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_examples",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module2/digital_twin_examples.md",
+              "tags": [
+                {
+                  "label": "digital-twin",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/digital-twin"
+                },
+                {
+                  "label": "examples",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/examples"
+                },
+                {
+                  "label": "code",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/code"
+                },
+                {
+                  "label": "simulation",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/simulation"
+                },
+                {
+                  "label": "implementation",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/implementation"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "title": "Digital Twin Code Examples",
+                "sidebar_position": 5,
+                "description": "Text-based code examples demonstrating Digital Twin concepts with Gazebo and Unity",
+                "tags": [
+                  "digital-twin",
+                  "examples",
+                  "code",
+                  "simulation",
+                  "implementation"
+                ]
+              },
+              "sidebar": "module2Sidebar",
+              "previous": {
+                "title": "Digital Twin Theory and Concepts",
+                "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_theory"
+              },
+              "next": {
+                "title": "Digital Twin Exercises",
+                "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_exercises"
+              }
+            },
+            {
+              "id": "module2/digital_twin_exercises",
+              "title": "Digital Twin Exercises",
+              "description": "Practice exercises with solutions for Digital Twin concepts",
+              "source": "@site/docs/module2/digital_twin_exercises.md",
+              "sourceDirName": "module2",
+              "slug": "/module2/digital_twin_exercises",
+              "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_exercises",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module2/digital_twin_exercises.md",
+              "tags": [
+                {
+                  "label": "digital-twin",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/digital-twin"
+                },
+                {
+                  "label": "exercises",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/exercises"
+                },
+                {
+                  "label": "practice",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/practice"
+                },
+                {
+                  "label": "simulation",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/simulation"
+                },
+                {
+                  "label": "problems",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/problems"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "title": "Digital Twin Exercises",
+                "sidebar_position": 6,
+                "description": "Practice exercises with solutions for Digital Twin concepts",
+                "tags": [
+                  "digital-twin",
+                  "exercises",
+                  "practice",
+                  "simulation",
+                  "problems"
+                ]
+              },
+              "sidebar": "module2Sidebar",
+              "previous": {
+                "title": "Digital Twin Code Examples",
+                "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_examples"
+              }
+            },
+            {
+              "id": "module2/digital_twin_theory",
+              "title": "Digital Twin Theory and Concepts",
+              "description": "Understanding the theoretical foundations of Digital Twin technology",
+              "source": "@site/docs/module2/digital_twin_theory.md",
+              "sourceDirName": "module2",
+              "slug": "/module2/digital_twin_theory",
+              "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_theory",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module2/digital_twin_theory.md",
+              "tags": [
+                {
+                  "label": "digital-twin",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/digital-twin"
+                },
+                {
+                  "label": "theory",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/theory"
+                },
+                {
+                  "label": "concepts",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/concepts"
+                },
+                {
+                  "label": "simulation",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/simulation"
+                },
+                {
+                  "label": "modeling",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/modeling"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "title": "Digital Twin Theory and Concepts",
+                "sidebar_position": 4,
+                "description": "Understanding the theoretical foundations of Digital Twin technology",
+                "tags": [
+                  "digital-twin",
+                  "theory",
+                  "concepts",
+                  "simulation",
+                  "modeling"
+                ]
+              },
+              "sidebar": "module2Sidebar",
+              "previous": {
+                "title": "Unity Integration in Robotics",
+                "permalink": "/physical-ai-humanoid-book/docs/module2/unity_integration"
+              },
+              "next": {
+                "title": "Digital Twin Code Examples",
+                "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_examples"
+              }
+            },
+            {
+              "id": "module2/gazebo_basics",
+              "title": "Gazebo Simulation Basics",
+              "description": "Understanding the fundamentals of Gazebo simulation platform",
+              "source": "@site/docs/module2/gazebo_basics.md",
+              "sourceDirName": "module2",
+              "slug": "/module2/gazebo_basics",
+              "permalink": "/physical-ai-humanoid-book/docs/module2/gazebo_basics",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module2/gazebo_basics.md",
+              "tags": [
+                {
+                  "label": "gazebo",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/gazebo"
+                },
+                {
+                  "label": "simulation",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/simulation"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                },
+                {
+                  "label": "physics-engine",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/physics-engine"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "Gazebo Simulation Basics",
+                "sidebar_position": 2,
+                "description": "Understanding the fundamentals of Gazebo simulation platform",
+                "tags": [
+                  "gazebo",
+                  "simulation",
+                  "robotics",
+                  "physics-engine"
+                ]
+              },
+              "sidebar": "module2Sidebar",
+              "previous": {
+                "title": "Module 2 - Digital Twin (Gazebo & Unity)",
+                "permalink": "/physical-ai-humanoid-book/docs/module2/"
+              },
+              "next": {
+                "title": "Unity Integration in Robotics",
+                "permalink": "/physical-ai-humanoid-book/docs/module2/unity_integration"
+              }
+            },
+            {
+              "id": "module2/index",
+              "title": "Module 2 - Digital Twin (Gazebo & Unity)",
+              "description": "Understanding Digital Twin technology with Gazebo and Unity simulation platforms",
+              "source": "@site/docs/module2/index.md",
+              "sourceDirName": "module2",
+              "slug": "/module2/",
+              "permalink": "/physical-ai-humanoid-book/docs/module2/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module2/index.md",
+              "tags": [
+                {
+                  "label": "digital-twin",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/digital-twin"
+                },
+                {
+                  "label": "gazebo",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/gazebo"
+                },
+                {
+                  "label": "unity",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/unity"
+                },
+                {
+                  "label": "simulation",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/simulation"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Module 2 - Digital Twin (Gazebo & Unity)",
+                "sidebar_position": 1,
+                "description": "Understanding Digital Twin technology with Gazebo and Unity simulation platforms",
+                "tags": [
+                  "digital-twin",
+                  "gazebo",
+                  "unity",
+                  "simulation",
+                  "robotics"
+                ]
+              },
+              "sidebar": "module2Sidebar",
+              "next": {
+                "title": "Module 2 - Digital Twin (Gazebo & Unity)",
+                "permalink": "/physical-ai-humanoid-book/docs/module2/"
+              }
+            },
+            {
+              "id": "module2/unity_integration",
+              "title": "Unity Integration in Robotics",
+              "description": "Understanding Unity as a digital twin platform for robotics",
+              "source": "@site/docs/module2/unity_integration.md",
+              "sourceDirName": "module2",
+              "slug": "/module2/unity_integration",
+              "permalink": "/physical-ai-humanoid-book/docs/module2/unity_integration",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module2/unity_integration.md",
+              "tags": [
+                {
+                  "label": "unity",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/unity"
+                },
+                {
+                  "label": "digital-twin",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/digital-twin"
+                },
+                {
+                  "label": "simulation",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/simulation"
+                },
+                {
+                  "label": "game-engine",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/game-engine"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Unity Integration in Robotics",
+                "sidebar_position": 3,
+                "description": "Understanding Unity as a digital twin platform for robotics",
+                "tags": [
+                  "unity",
+                  "digital-twin",
+                  "simulation",
+                  "game-engine",
+                  "robotics"
+                ]
+              },
+              "sidebar": "module2Sidebar",
+              "previous": {
+                "title": "Gazebo Simulation Basics",
+                "permalink": "/physical-ai-humanoid-book/docs/module2/gazebo_basics"
+              },
+              "next": {
+                "title": "Digital Twin Theory and Concepts",
+                "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_theory"
+              }
+            },
+            {
+              "id": "module3/index",
+              "title": "Module 3 - NVIDIA Isaac AI-Robot Brain",
+              "description": "Understanding NVIDIA Isaac platform for AI-powered robotics",
+              "source": "@site/docs/module3/index.md",
+              "sourceDirName": "module3",
+              "slug": "/module3/",
+              "permalink": "/physical-ai-humanoid-book/docs/module3/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module3/index.md",
+              "tags": [
+                {
+                  "label": "nvidia-isaac",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/nvidia-isaac"
+                },
+                {
+                  "label": "ai",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/ai"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                },
+                {
+                  "label": "deep-learning",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/deep-learning"
+                },
+                {
+                  "label": "computer-vision",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/computer-vision"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Module 3 - NVIDIA Isaac AI-Robot Brain",
+                "sidebar_position": 1,
+                "description": "Understanding NVIDIA Isaac platform for AI-powered robotics",
+                "tags": [
+                  "nvidia-isaac",
+                  "ai",
+                  "robotics",
+                  "deep-learning",
+                  "computer-vision"
+                ]
+              },
+              "sidebar": "module3Sidebar",
+              "next": {
+                "title": "Module 3 - NVIDIA Isaac AI-Robot Brain",
+                "permalink": "/physical-ai-humanoid-book/docs/module3/"
+              }
+            },
+            {
+              "id": "module3/isaac_ai_concepts",
+              "title": "AI Concepts for Robotics",
+              "description": "Understanding fundamental AI concepts applied to robotics using Isaac",
+              "source": "@site/docs/module3/isaac_ai_concepts.md",
+              "sourceDirName": "module3",
+              "slug": "/module3/isaac_ai_concepts",
+              "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_ai_concepts",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module3/isaac_ai_concepts.md",
+              "tags": [
+                {
+                  "label": "ai",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/ai"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                },
+                {
+                  "label": "machine-learning",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/machine-learning"
+                },
+                {
+                  "label": "computer-vision",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/computer-vision"
+                },
+                {
+                  "label": "deep-learning",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/deep-learning"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "title": "AI Concepts for Robotics",
+                "sidebar_position": 4,
+                "description": "Understanding fundamental AI concepts applied to robotics using Isaac",
+                "tags": [
+                  "ai",
+                  "robotics",
+                  "machine-learning",
+                  "computer-vision",
+                  "deep-learning"
+                ]
+              },
+              "sidebar": "module3Sidebar",
+              "previous": {
+                "title": "Isaac Architecture and Components",
+                "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_architecture"
+              },
+              "next": {
+                "title": "Isaac Code Examples",
+                "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_examples"
+              }
+            },
+            {
+              "id": "module3/isaac_architecture",
+              "title": "Isaac Architecture and Components",
+              "description": "Understanding the architectural design of NVIDIA Isaac platform",
+              "source": "@site/docs/module3/isaac_architecture.md",
+              "sourceDirName": "module3",
+              "slug": "/module3/isaac_architecture",
+              "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_architecture",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module3/isaac_architecture.md",
+              "tags": [
+                {
+                  "label": "nvidia-isaac",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/nvidia-isaac"
+                },
+                {
+                  "label": "architecture",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/architecture"
+                },
+                {
+                  "label": "components",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/components"
+                },
+                {
+                  "label": "ai-framework",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/ai-framework"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Isaac Architecture and Components",
+                "sidebar_position": 3,
+                "description": "Understanding the architectural design of NVIDIA Isaac platform",
+                "tags": [
+                  "nvidia-isaac",
+                  "architecture",
+                  "components",
+                  "ai-framework"
+                ]
+              },
+              "sidebar": "module3Sidebar",
+              "previous": {
+                "title": "NVIDIA Isaac Platform Overview",
+                "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_overview"
+              },
+              "next": {
+                "title": "AI Concepts for Robotics",
+                "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_ai_concepts"
+              }
+            },
+            {
+              "id": "module3/isaac_examples",
+              "title": "Isaac Code Examples",
+              "description": "Text-based code examples demonstrating NVIDIA Isaac concepts",
+              "source": "@site/docs/module3/isaac_examples.md",
+              "sourceDirName": "module3",
+              "slug": "/module3/isaac_examples",
+              "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_examples",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module3/isaac_examples.md",
+              "tags": [
+                {
+                  "label": "nvidia-isaac",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/nvidia-isaac"
+                },
+                {
+                  "label": "examples",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/examples"
+                },
+                {
+                  "label": "code",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/code"
+                },
+                {
+                  "label": "ai-robotics",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/ai-robotics"
+                },
+                {
+                  "label": "implementation",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/implementation"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "title": "Isaac Code Examples",
+                "sidebar_position": 5,
+                "description": "Text-based code examples demonstrating NVIDIA Isaac concepts",
+                "tags": [
+                  "nvidia-isaac",
+                  "examples",
+                  "code",
+                  "ai-robotics",
+                  "implementation"
+                ]
+              },
+              "sidebar": "module3Sidebar",
+              "previous": {
+                "title": "AI Concepts for Robotics",
+                "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_ai_concepts"
+              },
+              "next": {
+                "title": "Isaac Exercises",
+                "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_exercises"
+              }
+            },
+            {
+              "id": "module3/isaac_exercises",
+              "title": "Isaac Exercises",
+              "description": "Practice exercises with solutions for NVIDIA Isaac concepts",
+              "source": "@site/docs/module3/isaac_exercises.md",
+              "sourceDirName": "module3",
+              "slug": "/module3/isaac_exercises",
+              "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_exercises",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module3/isaac_exercises.md",
+              "tags": [
+                {
+                  "label": "nvidia-isaac",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/nvidia-isaac"
+                },
+                {
+                  "label": "exercises",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/exercises"
+                },
+                {
+                  "label": "practice",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/practice"
+                },
+                {
+                  "label": "ai-robotics",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/ai-robotics"
+                },
+                {
+                  "label": "problems",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/problems"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "title": "Isaac Exercises",
+                "sidebar_position": 6,
+                "description": "Practice exercises with solutions for NVIDIA Isaac concepts",
+                "tags": [
+                  "nvidia-isaac",
+                  "exercises",
+                  "practice",
+                  "ai-robotics",
+                  "problems"
+                ]
+              },
+              "sidebar": "module3Sidebar",
+              "previous": {
+                "title": "Isaac Code Examples",
+                "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_examples"
+              }
+            },
+            {
+              "id": "module3/isaac_overview",
+              "title": "NVIDIA Isaac Platform Overview",
+              "description": "Understanding the NVIDIA Isaac platform for AI-powered robotics",
+              "source": "@site/docs/module3/isaac_overview.md",
+              "sourceDirName": "module3",
+              "slug": "/module3/isaac_overview",
+              "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_overview",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module3/isaac_overview.md",
+              "tags": [
+                {
+                  "label": "nvidia-isaac",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/nvidia-isaac"
+                },
+                {
+                  "label": "ai",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/ai"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                },
+                {
+                  "label": "platform",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/platform"
+                },
+                {
+                  "label": "overview",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/overview"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "NVIDIA Isaac Platform Overview",
+                "sidebar_position": 2,
+                "description": "Understanding the NVIDIA Isaac platform for AI-powered robotics",
+                "tags": [
+                  "nvidia-isaac",
+                  "ai",
+                  "robotics",
+                  "platform",
+                  "overview"
+                ]
+              },
+              "sidebar": "module3Sidebar",
+              "previous": {
+                "title": "Module 3 - NVIDIA Isaac AI-Robot Brain",
+                "permalink": "/physical-ai-humanoid-book/docs/module3/"
+              },
+              "next": {
+                "title": "Isaac Architecture and Components",
+                "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_architecture"
+              }
+            },
+            {
+              "id": "module4/capstone_project",
+              "title": "VLA Capstone Project",
+              "description": "Comprehensive capstone project integrating all VLA concepts",
+              "source": "@site/docs/module4/capstone_project.md",
+              "sourceDirName": "module4",
+              "slug": "/module4/capstone_project",
+              "permalink": "/physical-ai-humanoid-book/docs/module4/capstone_project",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module4/capstone_project.md",
+              "tags": [
+                {
+                  "label": "vla",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/vla"
+                },
+                {
+                  "label": "capstone",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/capstone"
+                },
+                {
+                  "label": "vision-language-action",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/vision-language-action"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                },
+                {
+                  "label": "integration",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/integration"
+                },
+                {
+                  "label": "project",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/project"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "title": "VLA Capstone Project",
+                "sidebar_position": 6,
+                "description": "Comprehensive capstone project integrating all VLA concepts",
+                "tags": [
+                  "vla",
+                  "capstone",
+                  "vision-language-action",
+                  "robotics",
+                  "integration",
+                  "project"
+                ]
+              },
+              "sidebar": "module4Sidebar",
+              "previous": {
+                "title": "VLA Exercises",
+                "permalink": "/physical-ai-humanoid-book/docs/module4/vla_exercises"
+              }
+            },
+            {
+              "id": "module4/index",
+              "title": "Module 4 - Vision-Language-Action (VLA)",
+              "description": "Understanding Vision-Language-Action systems for advanced robotics",
+              "source": "@site/docs/module4/index.md",
+              "sourceDirName": "module4",
+              "slug": "/module4/",
+              "permalink": "/physical-ai-humanoid-book/docs/module4/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module4/index.md",
+              "tags": [
+                {
+                  "label": "vla",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/vla"
+                },
+                {
+                  "label": "vision-language-action",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/vision-language-action"
+                },
+                {
+                  "label": "ai",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/ai"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                },
+                {
+                  "label": "multimodal",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/multimodal"
+                },
+                {
+                  "label": "advanced-robotics",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/advanced-robotics"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Module 4 - Vision-Language-Action (VLA)",
+                "sidebar_position": 1,
+                "description": "Understanding Vision-Language-Action systems for advanced robotics",
+                "tags": [
+                  "vla",
+                  "vision-language-action",
+                  "ai",
+                  "robotics",
+                  "multimodal",
+                  "advanced-robotics"
+                ]
+              },
+              "sidebar": "module4Sidebar",
+              "next": {
+                "title": "Module 4 - Vision-Language-Action (VLA)",
+                "permalink": "/physical-ai-humanoid-book/docs/module4/"
+              }
+            },
+            {
+              "id": "module4/vla_architecture",
+              "title": "VLA Architecture and Integration",
+              "description": "Understanding the architectural design of Vision-Language-Action systems",
+              "source": "@site/docs/module4/vla_architecture.md",
+              "sourceDirName": "module4",
+              "slug": "/module4/vla_architecture",
+              "permalink": "/physical-ai-humanoid-book/docs/module4/vla_architecture",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module4/vla_architecture.md",
+              "tags": [
+                {
+                  "label": "vla",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/vla"
+                },
+                {
+                  "label": "architecture",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/architecture"
+                },
+                {
+                  "label": "vision-language-action",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/vision-language-action"
+                },
+                {
+                  "label": "ai-framework",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/ai-framework"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "VLA Architecture and Integration",
+                "sidebar_position": 3,
+                "description": "Understanding the architectural design of Vision-Language-Action systems",
+                "tags": [
+                  "vla",
+                  "architecture",
+                  "vision-language-action",
+                  "ai-framework",
+                  "robotics"
+                ]
+              },
+              "sidebar": "module4Sidebar",
+              "previous": {
+                "title": "VLA Fundamentals",
+                "permalink": "/physical-ai-humanoid-book/docs/module4/vla_fundamentals"
+              },
+              "next": {
+                "title": "VLA Integration Patterns",
+                "permalink": "/physical-ai-humanoid-book/docs/module4/vla_integration"
+              }
+            },
+            {
+              "id": "module4/vla_examples",
+              "title": "VLA Code Examples",
+              "description": "Text-based code examples demonstrating Vision-Language-Action systems",
+              "source": "@site/docs/module4/vla_examples.md",
+              "sourceDirName": "module4",
+              "slug": "/module4/vla_examples",
+              "permalink": "/physical-ai-humanoid-book/docs/module4/vla_examples",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module4/vla_examples.md",
+              "tags": [
+                {
+                  "label": "vla",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/vla"
+                },
+                {
+                  "label": "examples",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/examples"
+                },
+                {
+                  "label": "vision-language-action",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/vision-language-action"
+                },
+                {
+                  "label": "code",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/code"
+                },
+                {
+                  "label": "implementation",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/implementation"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "title": "VLA Code Examples",
+                "sidebar_position": 5,
+                "description": "Text-based code examples demonstrating Vision-Language-Action systems",
+                "tags": [
+                  "vla",
+                  "examples",
+                  "vision-language-action",
+                  "code",
+                  "implementation"
+                ]
+              },
+              "sidebar": "module4Sidebar",
+              "previous": {
+                "title": "VLA Integration Patterns",
+                "permalink": "/physical-ai-humanoid-book/docs/module4/vla_integration"
+              },
+              "next": {
+                "title": "VLA Exercises",
+                "permalink": "/physical-ai-humanoid-book/docs/module4/vla_exercises"
+              }
+            },
+            {
+              "id": "module4/vla_exercises",
+              "title": "VLA Exercises",
+              "description": "Practice exercises for Vision-Language-Action systems",
+              "source": "@site/docs/module4/vla_exercises.md",
+              "sourceDirName": "module4",
+              "slug": "/module4/vla_exercises",
+              "permalink": "/physical-ai-humanoid-book/docs/module4/vla_exercises",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module4/vla_exercises.md",
+              "tags": [
+                {
+                  "label": "vla",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/vla"
+                },
+                {
+                  "label": "exercises",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/exercises"
+                },
+                {
+                  "label": "vision-language-action",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/vision-language-action"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                },
+                {
+                  "label": "practice",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/practice"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "title": "VLA Exercises",
+                "sidebar_position": 5,
+                "description": "Practice exercises for Vision-Language-Action systems",
+                "tags": [
+                  "vla",
+                  "exercises",
+                  "vision-language-action",
+                  "robotics",
+                  "practice"
+                ]
+              },
+              "sidebar": "module4Sidebar",
+              "previous": {
+                "title": "VLA Code Examples",
+                "permalink": "/physical-ai-humanoid-book/docs/module4/vla_examples"
+              },
+              "next": {
+                "title": "VLA Capstone Project",
+                "permalink": "/physical-ai-humanoid-book/docs/module4/capstone_project"
+              }
+            },
+            {
+              "id": "module4/vla_fundamentals",
+              "title": "VLA Fundamentals",
+              "description": "Understanding the fundamental concepts of Vision-Language-Action systems",
+              "source": "@site/docs/module4/vla_fundamentals.md",
+              "sourceDirName": "module4",
+              "slug": "/module4/vla_fundamentals",
+              "permalink": "/physical-ai-humanoid-book/docs/module4/vla_fundamentals",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module4/vla_fundamentals.md",
+              "tags": [
+                {
+                  "label": "vla",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/vla"
+                },
+                {
+                  "label": "fundamentals",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/fundamentals"
+                },
+                {
+                  "label": "vision-language-action",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/vision-language-action"
+                },
+                {
+                  "label": "ai",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/ai"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "VLA Fundamentals",
+                "sidebar_position": 2,
+                "description": "Understanding the fundamental concepts of Vision-Language-Action systems",
+                "tags": [
+                  "vla",
+                  "fundamentals",
+                  "vision-language-action",
+                  "ai",
+                  "robotics"
+                ]
+              },
+              "sidebar": "module4Sidebar",
+              "previous": {
+                "title": "Module 4 - Vision-Language-Action (VLA)",
+                "permalink": "/physical-ai-humanoid-book/docs/module4/"
+              },
+              "next": {
+                "title": "VLA Architecture and Integration",
+                "permalink": "/physical-ai-humanoid-book/docs/module4/vla_architecture"
+              }
+            },
+            {
+              "id": "module4/vla_integration",
+              "title": "VLA Integration Patterns",
+              "description": "Advanced integration patterns for Vision-Language-Action systems",
+              "source": "@site/docs/module4/vla_integration.md",
+              "sourceDirName": "module4",
+              "slug": "/module4/vla_integration",
+              "permalink": "/physical-ai-humanoid-book/docs/module4/vla_integration",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module4/vla_integration.md",
+              "tags": [
+                {
+                  "label": "vla",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/vla"
+                },
+                {
+                  "label": "integration",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/integration"
+                },
+                {
+                  "label": "vision-language-action",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/vision-language-action"
+                },
+                {
+                  "label": "patterns",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/patterns"
+                },
+                {
+                  "label": "robotics",
+                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "title": "VLA Integration Patterns",
+                "sidebar_position": 4,
+                "description": "Advanced integration patterns for Vision-Language-Action systems",
+                "tags": [
+                  "vla",
+                  "integration",
+                  "vision-language-action",
+                  "patterns",
+                  "robotics"
+                ]
+              },
+              "sidebar": "module4Sidebar",
+              "previous": {
+                "title": "VLA Architecture and Integration",
+                "permalink": "/physical-ai-humanoid-book/docs/module4/vla_architecture"
+              },
+              "next": {
+                "title": "VLA Code Examples",
+                "permalink": "/physical-ai-humanoid-book/docs/module4/vla_examples"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "module1Sidebar": [
+              {
+                "type": "category",
+                "label": "Module 1: ROS 2 Robotic Nervous System",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "module1/index"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module1/ros2_intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module1/ros2_architecture"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module1/ros2_nodes"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module1/ros2_examples"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module1/ros2_exercises"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "module1/index"
+                },
+                "collapsed": true,
+                "collapsible": true
+              }
+            ],
+            "module2Sidebar": [
+              {
+                "type": "category",
+                "label": "Module 2: Digital Twin (Gazebo & Unity)",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "module2/index"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module2/gazebo_basics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module2/unity_integration"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module2/digital_twin_theory"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module2/digital_twin_examples"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module2/digital_twin_exercises"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "module2/index"
+                },
+                "collapsed": true,
+                "collapsible": true
+              }
+            ],
+            "module3Sidebar": [
+              {
+                "type": "category",
+                "label": "Module 3: NVIDIA Isaac AI-Robot Brain",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "module3/index"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module3/isaac_overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module3/isaac_architecture"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module3/isaac_ai_concepts"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module3/isaac_examples"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module3/isaac_exercises"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "module3/index"
+                },
+                "collapsed": true,
+                "collapsible": true
+              }
+            ],
+            "module4Sidebar": [
+              {
+                "type": "category",
+                "label": "Module 4: Vision-Language-Action (VLA)",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "module4/index"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module4/vla_fundamentals"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module4/vla_architecture"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module4/vla_integration"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module4/vla_examples"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module4/vla_exercises"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module4/capstone_project"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "module4/index"
+                },
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": []
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

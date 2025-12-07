@@ -1,0 +1,15 @@
+{
+  "label": "design",
+  "permalink": "/physical-ai-humanoid-book/docs/tags/design",
+  "allTagsPath": "/physical-ai-humanoid-book/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "module1/ros2_architecture",
+      "title": "ROS 2 Architecture",
+      "description": "Understanding the architectural design of Robot Operating System 2",
+      "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_architecture"
+    }
+  ],
+  "unlisted": false
+}

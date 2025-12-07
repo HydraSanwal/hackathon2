@@ -1,0 +1,33 @@
+{
+  "label": "code",
+  "permalink": "/physical-ai-humanoid-book/docs/tags/code",
+  "allTagsPath": "/physical-ai-humanoid-book/docs/tags",
+  "count": 4,
+  "items": [
+    {
+      "id": "module2/digital_twin_examples",
+      "title": "Digital Twin Code Examples",
+      "description": "Text-based code examples demonstrating Digital Twin concepts with Gazebo and Unity",
+      "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_examples"
+    },
+    {
+      "id": "module3/isaac_examples",
+      "title": "Isaac Code Examples",
+      "description": "Text-based code examples demonstrating NVIDIA Isaac concepts",
+      "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_examples"
+    },
+    {
+      "id": "module1/ros2_examples",
+      "title": "ROS 2 Code Examples",
+      "description": "Text-based code examples demonstrating ROS 2 concepts",
+      "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_examples"
+    },
+    {
+      "id": "module4/vla_examples",
+      "title": "VLA Code Examples",
+      "description": "Text-based code examples demonstrating Vision-Language-Action systems",
+      "permalink": "/physical-ai-humanoid-book/docs/module4/vla_examples"
+    }
+  ],
+  "unlisted": false
+}

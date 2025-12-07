@@ -1,0 +1,58 @@
+{
+  "id": "module4/capstone_project",
+  "title": "VLA Capstone Project",
+  "description": "Comprehensive capstone project integrating all VLA concepts",
+  "source": "@site/docs/module4/capstone_project.md",
+  "sourceDirName": "module4",
+  "slug": "/module4/capstone_project",
+  "permalink": "/physical-ai-humanoid-book/docs/module4/capstone_project",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module4/capstone_project.md",
+  "tags": [
+    {
+      "label": "vla",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/vla"
+    },
+    {
+      "label": "capstone",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/capstone"
+    },
+    {
+      "label": "vision-language-action",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/vision-language-action"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+    },
+    {
+      "label": "integration",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/integration"
+    },
+    {
+      "label": "project",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/project"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "VLA Capstone Project",
+    "sidebar_position": 6,
+    "description": "Comprehensive capstone project integrating all VLA concepts",
+    "tags": [
+      "vla",
+      "capstone",
+      "vision-language-action",
+      "robotics",
+      "integration",
+      "project"
+    ]
+  },
+  "sidebar": "module4Sidebar",
+  "previous": {
+    "title": "VLA Exercises",
+    "permalink": "/physical-ai-humanoid-book/docs/module4/vla_exercises"
+  }
+}

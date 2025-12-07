@@ -1,0 +1,57 @@
+{
+  "id": "module3/isaac_ai_concepts",
+  "title": "AI Concepts for Robotics",
+  "description": "Understanding fundamental AI concepts applied to robotics using Isaac",
+  "source": "@site/docs/module3/isaac_ai_concepts.md",
+  "sourceDirName": "module3",
+  "slug": "/module3/isaac_ai_concepts",
+  "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_ai_concepts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module3/isaac_ai_concepts.md",
+  "tags": [
+    {
+      "label": "ai",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/ai"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+    },
+    {
+      "label": "machine-learning",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/machine-learning"
+    },
+    {
+      "label": "computer-vision",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/computer-vision"
+    },
+    {
+      "label": "deep-learning",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/deep-learning"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "AI Concepts for Robotics",
+    "sidebar_position": 4,
+    "description": "Understanding fundamental AI concepts applied to robotics using Isaac",
+    "tags": [
+      "ai",
+      "robotics",
+      "machine-learning",
+      "computer-vision",
+      "deep-learning"
+    ]
+  },
+  "sidebar": "module3Sidebar",
+  "previous": {
+    "title": "Isaac Architecture and Components",
+    "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_architecture"
+  },
+  "next": {
+    "title": "Isaac Code Examples",
+    "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_examples"
+  }
+}

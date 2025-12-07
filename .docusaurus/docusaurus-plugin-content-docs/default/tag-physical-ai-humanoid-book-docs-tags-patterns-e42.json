@@ -1,0 +1,21 @@
+{
+  "label": "patterns",
+  "permalink": "/physical-ai-humanoid-book/docs/tags/patterns",
+  "allTagsPath": "/physical-ai-humanoid-book/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "module1/ros2_nodes",
+      "title": "ROS 2 Nodes and Communication Patterns",
+      "description": "Understanding nodes, topics, services, and actions in ROS 2",
+      "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_nodes"
+    },
+    {
+      "id": "module4/vla_integration",
+      "title": "VLA Integration Patterns",
+      "description": "Advanced integration patterns for Vision-Language-Action systems",
+      "permalink": "/physical-ai-humanoid-book/docs/module4/vla_integration"
+    }
+  ],
+  "unlisted": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "module3/isaac_overview",
+  "title": "NVIDIA Isaac Platform Overview",
+  "description": "Understanding the NVIDIA Isaac platform for AI-powered robotics",
+  "source": "@site/docs/module3/isaac_overview.md",
+  "sourceDirName": "module3",
+  "slug": "/module3/isaac_overview",
+  "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module3/isaac_overview.md",
+  "tags": [
+    {
+      "label": "nvidia-isaac",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/nvidia-isaac"
+    },
+    {
+      "label": "ai",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/ai"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+    },
+    {
+      "label": "platform",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/platform"
+    },
+    {
+      "label": "overview",
+      "permalink": "/physical-ai-humanoid-book/docs/tags/overview"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "NVIDIA Isaac Platform Overview",
+    "sidebar_position": 2,
+    "description": "Understanding the NVIDIA Isaac platform for AI-powered robotics",
+    "tags": [
+      "nvidia-isaac",
+      "ai",
+      "robotics",
+      "platform",
+      "overview"
+    ]
+  },
+  "sidebar": "module3Sidebar",
+  "previous": {
+    "title": "Module 3 - NVIDIA Isaac AI-Robot Brain",
+    "permalink": "/physical-ai-humanoid-book/docs/module3/"
+  },
+  "next": {
+    "title": "Isaac Architecture and Components",
+    "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_architecture"
+  }
+}

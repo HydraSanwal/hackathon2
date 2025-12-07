@@ -1,0 +1,21 @@
+{
+  "label": "ai-robotics",
+  "permalink": "/physical-ai-humanoid-book/docs/tags/ai-robotics",
+  "allTagsPath": "/physical-ai-humanoid-book/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "module3/isaac_examples",
+      "title": "Isaac Code Examples",
+      "description": "Text-based code examples demonstrating NVIDIA Isaac concepts",
+      "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_examples"
+    },
+    {
+      "id": "module3/isaac_exercises",
+      "title": "Isaac Exercises",
+      "description": "Practice exercises with solutions for NVIDIA Isaac concepts",
+      "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_exercises"
+    }
+  ],
+  "unlisted": false
+}

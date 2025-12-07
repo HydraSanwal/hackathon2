@@ -1,0 +1,39 @@
+{
+  "label": "digital-twin",
+  "permalink": "/physical-ai-humanoid-book/docs/tags/digital-twin",
+  "allTagsPath": "/physical-ai-humanoid-book/docs/tags",
+  "count": 5,
+  "items": [
+    {
+      "id": "module2/digital_twin_examples",
+      "title": "Digital Twin Code Examples",
+      "description": "Text-based code examples demonstrating Digital Twin concepts with Gazebo and Unity",
+      "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_examples"
+    },
+    {
+      "id": "module2/digital_twin_exercises",
+      "title": "Digital Twin Exercises",
+      "description": "Practice exercises with solutions for Digital Twin concepts",
+      "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_exercises"
+    },
+    {
+      "id": "module2/digital_twin_theory",
+      "title": "Digital Twin Theory and Concepts",
+      "description": "Understanding the theoretical foundations of Digital Twin technology",
+      "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_theory"
+    },
+    {
+      "id": "module2/index",
+      "title": "Module 2 - Digital Twin (Gazebo & Unity)",
+      "description": "Understanding Digital Twin technology with Gazebo and Unity simulation platforms",
+      "permalink": "/physical-ai-humanoid-book/docs/module2/"
+    },
+    {
+      "id": "module2/unity_integration",
+      "title": "Unity Integration in Robotics",
+      "description": "Understanding Unity as a digital twin platform for robotics",
+      "permalink": "/physical-ai-humanoid-book/docs/module2/unity_integration"
+    }
+  ],
+  "unlisted": false
+}

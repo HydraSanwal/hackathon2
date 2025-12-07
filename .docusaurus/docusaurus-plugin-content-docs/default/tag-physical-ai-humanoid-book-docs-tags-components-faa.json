@@ -1,0 +1,15 @@
+{
+  "label": "components",
+  "permalink": "/physical-ai-humanoid-book/docs/tags/components",
+  "allTagsPath": "/physical-ai-humanoid-book/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "module3/isaac_architecture",
+      "title": "Isaac Architecture and Components",
+      "description": "Understanding the architectural design of NVIDIA Isaac platform",
+      "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_architecture"
+    }
+  ],
+  "unlisted": false
+}

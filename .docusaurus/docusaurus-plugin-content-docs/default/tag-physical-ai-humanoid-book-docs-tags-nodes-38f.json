@@ -1,0 +1,15 @@
+{
+  "label": "nodes",
+  "permalink": "/physical-ai-humanoid-book/docs/tags/nodes",
+  "allTagsPath": "/physical-ai-humanoid-book/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "module1/ros2_nodes",
+      "title": "ROS 2 Nodes and Communication Patterns",
+      "description": "Understanding nodes, topics, services, and actions in ROS 2",
+      "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_nodes"
+    }
+  ],
+  "unlisted": false
+}
