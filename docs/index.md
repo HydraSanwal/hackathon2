@@ -1,7 +1,7 @@
 ---
-title: Introduction
-sidebar_position: 1
-description: "Welcome to Physical AI & Humanoid Robotics: From Theory to Action"
+title: Physical AI & Humanoid Robotics
+sidebar_position: 0
+description: "Physical AI & Humanoid Robotics: From Theory to Action - Home"
 slug: /
 ---
 

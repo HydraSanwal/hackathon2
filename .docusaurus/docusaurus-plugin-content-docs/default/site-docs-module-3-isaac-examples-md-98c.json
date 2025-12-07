@@ -5,30 +5,30 @@
   "source": "@site/docs/module3/isaac_examples.md",
   "sourceDirName": "module3",
   "slug": "/module3/isaac_examples",
-  "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_examples",
+  "permalink": "/docs/module3/isaac_examples",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module3/isaac_examples.md",
   "tags": [
     {
       "label": "nvidia-isaac",
-      "permalink": "/physical-ai-humanoid-book/docs/tags/nvidia-isaac"
+      "permalink": "/docs/tags/nvidia-isaac"
     },
     {
       "label": "examples",
-      "permalink": "/physical-ai-humanoid-book/docs/tags/examples"
+      "permalink": "/docs/tags/examples"
     },
     {
       "label": "code",
-      "permalink": "/physical-ai-humanoid-book/docs/tags/code"
+      "permalink": "/docs/tags/code"
     },
     {
       "label": "ai-robotics",
-      "permalink": "/physical-ai-humanoid-book/docs/tags/ai-robotics"
+      "permalink": "/docs/tags/ai-robotics"
     },
     {
       "label": "implementation",
-      "permalink": "/physical-ai-humanoid-book/docs/tags/implementation"
+      "permalink": "/docs/tags/implementation"
     }
   ],
   "version": "current",
@@ -48,10 +48,10 @@
   "sidebar": "module3Sidebar",
   "previous": {
     "title": "AI Concepts for Robotics",
-    "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_ai_concepts"
+    "permalink": "/docs/module3/isaac_ai_concepts"
   },
   "next": {
     "title": "Isaac Exercises",
-    "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_exercises"
+    "permalink": "/docs/module3/isaac_exercises"
   }
 }

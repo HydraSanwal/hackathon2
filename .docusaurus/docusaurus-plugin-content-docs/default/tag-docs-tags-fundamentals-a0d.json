@@ -1,0 +1,27 @@
+{
+  "label": "fundamentals",
+  "permalink": "/docs/tags/fundamentals",
+  "allTagsPath": "/docs/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "module1/ros2_intro",
+      "title": "Introduction to ROS 2",
+      "description": "Understanding the fundamentals of Robot Operating System 2",
+      "permalink": "/docs/module1/ros2_intro"
+    },
+    {
+      "id": "module1/index",
+      "title": "Module 1 - ROS 2 Robotic Nervous System",
+      "description": "Introduction to Robot Operating System 2 - the nervous system of modern robotics",
+      "permalink": "/docs/module1/"
+    },
+    {
+      "id": "module4/vla_fundamentals",
+      "title": "VLA Fundamentals",
+      "description": "Understanding the fundamental concepts of Vision-Language-Action systems",
+      "permalink": "/docs/module4/vla_fundamentals"
+    }
+  ],
+  "unlisted": false
+}

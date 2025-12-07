@@ -1,0 +1,15 @@
+{
+  "label": "components",
+  "permalink": "/docs/tags/components",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "module3/isaac_architecture",
+      "title": "Isaac Architecture and Components",
+      "description": "Understanding the architectural design of NVIDIA Isaac platform",
+      "permalink": "/docs/module3/isaac_architecture"
+    }
+  ],
+  "unlisted": false
+}

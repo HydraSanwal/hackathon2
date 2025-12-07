@@ -1,0 +1,45 @@
+{
+  "label": "simulation",
+  "permalink": "/docs/tags/simulation",
+  "allTagsPath": "/docs/tags",
+  "count": 6,
+  "items": [
+    {
+      "id": "module2/digital_twin_examples",
+      "title": "Digital Twin Code Examples",
+      "description": "Text-based code examples demonstrating Digital Twin concepts with Gazebo and Unity",
+      "permalink": "/docs/module2/digital_twin_examples"
+    },
+    {
+      "id": "module2/digital_twin_exercises",
+      "title": "Digital Twin Exercises",
+      "description": "Practice exercises with solutions for Digital Twin concepts",
+      "permalink": "/docs/module2/digital_twin_exercises"
+    },
+    {
+      "id": "module2/digital_twin_theory",
+      "title": "Digital Twin Theory and Concepts",
+      "description": "Understanding the theoretical foundations of Digital Twin technology",
+      "permalink": "/docs/module2/digital_twin_theory"
+    },
+    {
+      "id": "module2/gazebo_basics",
+      "title": "Gazebo Simulation Basics",
+      "description": "Understanding the fundamentals of Gazebo simulation platform",
+      "permalink": "/docs/module2/gazebo_basics"
+    },
+    {
+      "id": "module2/index",
+      "title": "Module 2 - Digital Twin (Gazebo & Unity)",
+      "description": "Understanding Digital Twin technology with Gazebo and Unity simulation platforms",
+      "permalink": "/docs/module2/"
+    },
+    {
+      "id": "module2/unity_integration",
+      "title": "Unity Integration in Robotics",
+      "description": "Understanding Unity as a digital twin platform for robotics",
+      "permalink": "/docs/module2/unity_integration"
+    }
+  ],
+  "unlisted": false
+}

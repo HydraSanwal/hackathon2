@@ -1,0 +1,15 @@
+{
+  "label": "platform",
+  "permalink": "/docs/tags/platform",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "module3/isaac_overview",
+      "title": "NVIDIA Isaac Platform Overview",
+      "description": "Understanding the NVIDIA Isaac platform for AI-powered robotics",
+      "permalink": "/docs/module3/isaac_overview"
+    }
+  ],
+  "unlisted": false
+}

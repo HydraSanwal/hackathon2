@@ -1,0 +1,21 @@
+{
+  "label": "computer-vision",
+  "permalink": "/docs/tags/computer-vision",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "module3/isaac_ai_concepts",
+      "title": "AI Concepts for Robotics",
+      "description": "Understanding fundamental AI concepts applied to robotics using Isaac",
+      "permalink": "/docs/module3/isaac_ai_concepts"
+    },
+    {
+      "id": "module3/index",
+      "title": "Module 3 - NVIDIA Isaac AI-Robot Brain",
+      "description": "Understanding NVIDIA Isaac platform for AI-powered robotics",
+      "permalink": "/docs/module3/"
+    }
+  ],
+  "unlisted": false
+}

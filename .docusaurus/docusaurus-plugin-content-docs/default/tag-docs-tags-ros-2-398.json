@@ -1,0 +1,45 @@
+{
+  "label": "ros2",
+  "permalink": "/docs/tags/ros-2",
+  "allTagsPath": "/docs/tags",
+  "count": 6,
+  "items": [
+    {
+      "id": "module1/ros2_intro",
+      "title": "Introduction to ROS 2",
+      "description": "Understanding the fundamentals of Robot Operating System 2",
+      "permalink": "/docs/module1/ros2_intro"
+    },
+    {
+      "id": "module1/index",
+      "title": "Module 1 - ROS 2 Robotic Nervous System",
+      "description": "Introduction to Robot Operating System 2 - the nervous system of modern robotics",
+      "permalink": "/docs/module1/"
+    },
+    {
+      "id": "module1/ros2_architecture",
+      "title": "ROS 2 Architecture",
+      "description": "Understanding the architectural design of Robot Operating System 2",
+      "permalink": "/docs/module1/ros2_architecture"
+    },
+    {
+      "id": "module1/ros2_examples",
+      "title": "ROS 2 Code Examples",
+      "description": "Text-based code examples demonstrating ROS 2 concepts",
+      "permalink": "/docs/module1/ros2_examples"
+    },
+    {
+      "id": "module1/ros2_exercises",
+      "title": "ROS 2 Exercises",
+      "description": "Practice exercises with solutions for ROS 2 concepts",
+      "permalink": "/docs/module1/ros2_exercises"
+    },
+    {
+      "id": "module1/ros2_nodes",
+      "title": "ROS 2 Nodes and Communication Patterns",
+      "description": "Understanding nodes, topics, services, and actions in ROS 2",
+      "permalink": "/docs/module1/ros2_nodes"
+    }
+  ],
+  "unlisted": false
+}

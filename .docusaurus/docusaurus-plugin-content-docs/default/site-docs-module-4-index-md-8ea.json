@@ -5,34 +5,34 @@
   "source": "@site/docs/module4/index.md",
   "sourceDirName": "module4",
   "slug": "/module4/",
-  "permalink": "/physical-ai-humanoid-book/docs/module4/",
+  "permalink": "/docs/module4/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module4/index.md",
   "tags": [
     {
       "label": "vla",
-      "permalink": "/physical-ai-humanoid-book/docs/tags/vla"
+      "permalink": "/docs/tags/vla"
     },
     {
       "label": "vision-language-action",
-      "permalink": "/physical-ai-humanoid-book/docs/tags/vision-language-action"
+      "permalink": "/docs/tags/vision-language-action"
     },
     {
       "label": "ai",
-      "permalink": "/physical-ai-humanoid-book/docs/tags/ai"
+      "permalink": "/docs/tags/ai"
     },
     {
       "label": "robotics",
-      "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+      "permalink": "/docs/tags/robotics"
     },
     {
       "label": "multimodal",
-      "permalink": "/physical-ai-humanoid-book/docs/tags/multimodal"
+      "permalink": "/docs/tags/multimodal"
     },
     {
       "label": "advanced-robotics",
-      "permalink": "/physical-ai-humanoid-book/docs/tags/advanced-robotics"
+      "permalink": "/docs/tags/advanced-robotics"
     }
   ],
   "version": "current",
@@ -53,6 +53,6 @@
   "sidebar": "module4Sidebar",
   "next": {
     "title": "Module 4 - Vision-Language-Action (VLA)",
-    "permalink": "/physical-ai-humanoid-book/docs/module4/"
+    "permalink": "/docs/module4/"
   }
 }

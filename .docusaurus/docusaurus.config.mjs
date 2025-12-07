@@ -7,8 +7,8 @@ export default {
   "title": "Physical AI & Humanoid Robotics: From Theory to Action",
   "tagline": "Comprehensive Guide to Physical AI and Humanoid Robotics",
   "favicon": "img/favicon.ico",
-  "url": "https://your-username.github.io",
-  "baseUrl": "/physical-ai-humanoid-book/",
+  "url": "https://your-vercel-project-url.vercel.app",
+  "baseUrl": "/",
   "organizationName": "your-organization",
   "projectName": "physical-ai-humanoid-book",
   "onBrokenLinks": "warn",
@@ -44,13 +44,8 @@ export default {
         "alt": "Physical AI Logo",
         "src": "img/logo.svg"
       },
+      "hideOnScroll": false,
       "items": [
-        {
-          "type": "doc",
-          "docId": "intro",
-          "position": "left",
-          "label": "Home"
-        },
         {
           "type": "docSidebar",
           "sidebarId": "module1Sidebar",
@@ -80,8 +75,7 @@ export default {
           "label": "GitHub",
           "position": "right"
         }
-      ],
-      "hideOnScroll": false
+      ]
     },
     "footer": {
       "style": "dark",

@@ -1,0 +1,21 @@
+{
+  "label": "ai-framework",
+  "permalink": "/docs/tags/ai-framework",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "module3/isaac_architecture",
+      "title": "Isaac Architecture and Components",
+      "description": "Understanding the architectural design of NVIDIA Isaac platform",
+      "permalink": "/docs/module3/isaac_architecture"
+    },
+    {
+      "id": "module4/vla_architecture",
+      "title": "VLA Architecture and Integration",
+      "description": "Understanding the architectural design of Vision-Language-Action systems",
+      "permalink": "/docs/module4/vla_architecture"
+    }
+  ],
+  "unlisted": false
+}

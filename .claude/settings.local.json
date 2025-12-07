@@ -6,7 +6,9 @@
       "Bash(.specify/scripts/bash/check-prerequisites.sh --json --require-tasks --include-tasks)",
       "Bash(git rev-parse --git-dir)",
       "Bash(npm run build)",
-      "Bash(dir staticimg)"
+      "Bash(dir staticimg)",
+      "Bash(npx serve -s build -l 3007)",
+      "Bash(del \"C:\\Users\\Hydra Sanwal\\Documents\\Claude\\hackathon2\\docs\\intro.md\")"
     ],
     "deny": [],
     "ask": []

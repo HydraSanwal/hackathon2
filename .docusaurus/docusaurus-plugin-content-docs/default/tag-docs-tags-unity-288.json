@@ -1,0 +1,21 @@
+{
+  "label": "unity",
+  "permalink": "/docs/tags/unity",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "module2/index",
+      "title": "Module 2 - Digital Twin (Gazebo & Unity)",
+      "description": "Understanding Digital Twin technology with Gazebo and Unity simulation platforms",
+      "permalink": "/docs/module2/"
+    },
+    {
+      "id": "module2/unity_integration",
+      "title": "Unity Integration in Robotics",
+      "description": "Understanding Unity as a digital twin platform for robotics",
+      "permalink": "/docs/module2/unity_integration"
+    }
+  ],
+  "unlisted": false
+}

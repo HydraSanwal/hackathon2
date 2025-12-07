@@ -9,10 +9,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-username.github.io',
+  url: 'https://your-vercel-project-url.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/physical-ai-humanoid-book/',
+  // For Vercel deployment, use '/' for root, or '/project-name/' for subdirectory
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   organizationName: 'your-organization', // Usually your GitHub org/user name.
@@ -60,13 +60,8 @@ const config = {
           alt: 'Physical AI Logo',
           src: 'img/logo.svg',
         },
+        hideOnScroll: false,
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Home',
-          },
           {
             type: 'docSidebar',
             sidebarId: 'module1Sidebar',
