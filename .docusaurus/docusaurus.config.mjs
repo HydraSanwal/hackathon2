@@ -8,7 +8,7 @@ export default {
   "tagline": "Comprehensive Guide to Physical AI and Humanoid Robotics",
   "favicon": "img/favicon.ico",
   "url": "https://your-vercel-project-url.vercel.app",
-  "baseUrl": "/physical-ai-humanoid-book/",
+  "baseUrl": "/",
   "organizationName": "your-organization",
   "projectName": "physical-ai-humanoid-book",
   "onBrokenLinks": "warn",

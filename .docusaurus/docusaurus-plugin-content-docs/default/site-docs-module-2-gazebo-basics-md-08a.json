@@ -5,26 +5,26 @@
   "source": "@site/docs/module2/gazebo_basics.md",
   "sourceDirName": "module2",
   "slug": "/module2/gazebo_basics",
-  "permalink": "/physical-ai-humanoid-book/docs/module2/gazebo_basics",
+  "permalink": "/docs/module2/gazebo_basics",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module2/gazebo_basics.md",
   "tags": [
     {
       "label": "gazebo",
-      "permalink": "/physical-ai-humanoid-book/docs/tags/gazebo"
+      "permalink": "/docs/tags/gazebo"
     },
     {
       "label": "simulation",
-      "permalink": "/physical-ai-humanoid-book/docs/tags/simulation"
+      "permalink": "/docs/tags/simulation"
     },
     {
       "label": "robotics",
-      "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+      "permalink": "/docs/tags/robotics"
     },
     {
       "label": "physics-engine",
-      "permalink": "/physical-ai-humanoid-book/docs/tags/physics-engine"
+      "permalink": "/docs/tags/physics-engine"
     }
   ],
   "version": "current",
@@ -43,10 +43,10 @@
   "sidebar": "module2Sidebar",
   "previous": {
     "title": "Module 2 - Digital Twin (Gazebo & Unity)",
-    "permalink": "/physical-ai-humanoid-book/docs/module2/"
+    "permalink": "/docs/module2/"
   },
   "next": {
     "title": "Unity Integration in Robotics",
-    "permalink": "/physical-ai-humanoid-book/docs/module2/unity_integration"
+    "permalink": "/docs/module2/unity_integration"
   }
 }

@@ -5,34 +5,34 @@
   "source": "@site/docs/module4/capstone_project.md",
   "sourceDirName": "module4",
   "slug": "/module4/capstone_project",
-  "permalink": "/physical-ai-humanoid-book/docs/module4/capstone_project",
+  "permalink": "/docs/module4/capstone_project",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module4/capstone_project.md",
   "tags": [
     {
       "label": "vla",
-      "permalink": "/physical-ai-humanoid-book/docs/tags/vla"
+      "permalink": "/docs/tags/vla"
     },
     {
       "label": "capstone",
-      "permalink": "/physical-ai-humanoid-book/docs/tags/capstone"
+      "permalink": "/docs/tags/capstone"
     },
     {
       "label": "vision-language-action",
-      "permalink": "/physical-ai-humanoid-book/docs/tags/vision-language-action"
+      "permalink": "/docs/tags/vision-language-action"
     },
     {
       "label": "robotics",
-      "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+      "permalink": "/docs/tags/robotics"
     },
     {
       "label": "integration",
-      "permalink": "/physical-ai-humanoid-book/docs/tags/integration"
+      "permalink": "/docs/tags/integration"
     },
     {
       "label": "project",
-      "permalink": "/physical-ai-humanoid-book/docs/tags/project"
+      "permalink": "/docs/tags/project"
     }
   ],
   "version": "current",
@@ -53,6 +53,6 @@
   "sidebar": "module4Sidebar",
   "previous": {
     "title": "VLA Exercises",
-    "permalink": "/physical-ai-humanoid-book/docs/module4/vla_exercises"
+    "permalink": "/docs/module4/vla_exercises"
   }
 }
