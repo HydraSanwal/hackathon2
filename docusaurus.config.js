@@ -9,7 +9,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://hackathon-2-test.vercel.app/',
+  url: 'https://your-vercel-project-url.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For Vercel deployment, use '/' for root, or '/project-name/' for subdirectory
   baseUrl: '/',
