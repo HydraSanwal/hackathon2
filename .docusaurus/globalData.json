@@ -1,142 +1,142 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/physical-ai-humanoid-book/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/physical-ai-humanoid-book/docs",
           "mainDocId": "index",
           "docs": [
             {
               "id": "index",
-              "path": "/docs/"
+              "path": "/physical-ai-humanoid-book/docs/"
             },
             {
               "id": "module1/index",
-              "path": "/docs/module1/",
+              "path": "/physical-ai-humanoid-book/docs/module1/",
               "sidebar": "module1Sidebar"
             },
             {
               "id": "module1/ros2_architecture",
-              "path": "/docs/module1/ros2_architecture",
+              "path": "/physical-ai-humanoid-book/docs/module1/ros2_architecture",
               "sidebar": "module1Sidebar"
             },
             {
               "id": "module1/ros2_examples",
-              "path": "/docs/module1/ros2_examples",
+              "path": "/physical-ai-humanoid-book/docs/module1/ros2_examples",
               "sidebar": "module1Sidebar"
             },
             {
               "id": "module1/ros2_exercises",
-              "path": "/docs/module1/ros2_exercises",
+              "path": "/physical-ai-humanoid-book/docs/module1/ros2_exercises",
               "sidebar": "module1Sidebar"
             },
             {
               "id": "module1/ros2_intro",
-              "path": "/docs/module1/ros2_intro",
+              "path": "/physical-ai-humanoid-book/docs/module1/ros2_intro",
               "sidebar": "module1Sidebar"
             },
             {
               "id": "module1/ros2_nodes",
-              "path": "/docs/module1/ros2_nodes",
+              "path": "/physical-ai-humanoid-book/docs/module1/ros2_nodes",
               "sidebar": "module1Sidebar"
             },
             {
               "id": "module2/digital_twin_examples",
-              "path": "/docs/module2/digital_twin_examples",
+              "path": "/physical-ai-humanoid-book/docs/module2/digital_twin_examples",
               "sidebar": "module2Sidebar"
             },
             {
               "id": "module2/digital_twin_exercises",
-              "path": "/docs/module2/digital_twin_exercises",
+              "path": "/physical-ai-humanoid-book/docs/module2/digital_twin_exercises",
               "sidebar": "module2Sidebar"
             },
             {
               "id": "module2/digital_twin_theory",
-              "path": "/docs/module2/digital_twin_theory",
+              "path": "/physical-ai-humanoid-book/docs/module2/digital_twin_theory",
               "sidebar": "module2Sidebar"
             },
             {
               "id": "module2/gazebo_basics",
-              "path": "/docs/module2/gazebo_basics",
+              "path": "/physical-ai-humanoid-book/docs/module2/gazebo_basics",
               "sidebar": "module2Sidebar"
             },
             {
               "id": "module2/index",
-              "path": "/docs/module2/",
+              "path": "/physical-ai-humanoid-book/docs/module2/",
               "sidebar": "module2Sidebar"
             },
             {
               "id": "module2/unity_integration",
-              "path": "/docs/module2/unity_integration",
+              "path": "/physical-ai-humanoid-book/docs/module2/unity_integration",
               "sidebar": "module2Sidebar"
             },
             {
               "id": "module3/index",
-              "path": "/docs/module3/",
+              "path": "/physical-ai-humanoid-book/docs/module3/",
               "sidebar": "module3Sidebar"
             },
             {
               "id": "module3/isaac_ai_concepts",
-              "path": "/docs/module3/isaac_ai_concepts",
+              "path": "/physical-ai-humanoid-book/docs/module3/isaac_ai_concepts",
               "sidebar": "module3Sidebar"
             },
             {
               "id": "module3/isaac_architecture",
-              "path": "/docs/module3/isaac_architecture",
+              "path": "/physical-ai-humanoid-book/docs/module3/isaac_architecture",
               "sidebar": "module3Sidebar"
             },
             {
               "id": "module3/isaac_examples",
-              "path": "/docs/module3/isaac_examples",
+              "path": "/physical-ai-humanoid-book/docs/module3/isaac_examples",
               "sidebar": "module3Sidebar"
             },
             {
               "id": "module3/isaac_exercises",
-              "path": "/docs/module3/isaac_exercises",
+              "path": "/physical-ai-humanoid-book/docs/module3/isaac_exercises",
               "sidebar": "module3Sidebar"
             },
             {
               "id": "module3/isaac_overview",
-              "path": "/docs/module3/isaac_overview",
+              "path": "/physical-ai-humanoid-book/docs/module3/isaac_overview",
               "sidebar": "module3Sidebar"
             },
             {
               "id": "module4/capstone_project",
-              "path": "/docs/module4/capstone_project",
+              "path": "/physical-ai-humanoid-book/docs/module4/capstone_project",
               "sidebar": "module4Sidebar"
             },
             {
               "id": "module4/index",
-              "path": "/docs/module4/",
+              "path": "/physical-ai-humanoid-book/docs/module4/",
               "sidebar": "module4Sidebar"
             },
             {
               "id": "module4/vla_architecture",
-              "path": "/docs/module4/vla_architecture",
+              "path": "/physical-ai-humanoid-book/docs/module4/vla_architecture",
               "sidebar": "module4Sidebar"
             },
             {
               "id": "module4/vla_examples",
-              "path": "/docs/module4/vla_examples",
+              "path": "/physical-ai-humanoid-book/docs/module4/vla_examples",
               "sidebar": "module4Sidebar"
             },
             {
               "id": "module4/vla_exercises",
-              "path": "/docs/module4/vla_exercises",
+              "path": "/physical-ai-humanoid-book/docs/module4/vla_exercises",
               "sidebar": "module4Sidebar"
             },
             {
               "id": "module4/vla_fundamentals",
-              "path": "/docs/module4/vla_fundamentals",
+              "path": "/physical-ai-humanoid-book/docs/module4/vla_fundamentals",
               "sidebar": "module4Sidebar"
             },
             {
               "id": "module4/vla_integration",
-              "path": "/docs/module4/vla_integration",
+              "path": "/physical-ai-humanoid-book/docs/module4/vla_integration",
               "sidebar": "module4Sidebar"
             }
           ],
@@ -144,25 +144,25 @@
           "sidebars": {
             "module1Sidebar": {
               "link": {
-                "path": "/docs/module1/",
+                "path": "/physical-ai-humanoid-book/docs/module1/",
                 "label": "Module 1: ROS 2 Robotic Nervous System"
               }
             },
             "module2Sidebar": {
               "link": {
-                "path": "/docs/module2/",
+                "path": "/physical-ai-humanoid-book/docs/module2/",
                 "label": "Module 2: Digital Twin (Gazebo & Unity)"
               }
             },
             "module3Sidebar": {
               "link": {
-                "path": "/docs/module3/",
+                "path": "/physical-ai-humanoid-book/docs/module3/",
                 "label": "Module 3: NVIDIA Isaac AI-Robot Brain"
               }
             },
             "module4Sidebar": {
               "link": {
-                "path": "/docs/module4/",
+                "path": "/physical-ai-humanoid-book/docs/module4/",
                 "label": "Module 4: Vision-Language-Action (VLA)"
               }
             }

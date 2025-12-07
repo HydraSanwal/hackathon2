@@ -4,7 +4,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 
 function HomePage() {
   const { siteConfig } = useDocusaurusContext();
-  return <Redirect to="/docs/" />;
+  return <Redirect to="/physical-ai-humanoid-book/docs/" />;
 }
 
 export default HomePage;

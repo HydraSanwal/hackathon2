@@ -1,207 +1,207 @@
 [
   {
     "label": "ros2",
-    "permalink": "/docs/tags/ros-2",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/ros-2",
     "count": 6
   },
   {
     "label": "robotics",
-    "permalink": "/docs/tags/robotics",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/robotics",
     "count": 13
   },
   {
     "label": "introduction",
-    "permalink": "/docs/tags/introduction",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/introduction",
     "count": 2
   },
   {
     "label": "fundamentals",
-    "permalink": "/docs/tags/fundamentals",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/fundamentals",
     "count": 3
   },
   {
     "label": "architecture",
-    "permalink": "/docs/tags/architecture",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/architecture",
     "count": 3
   },
   {
     "label": "design",
-    "permalink": "/docs/tags/design",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/design",
     "count": 1
   },
   {
     "label": "communication",
-    "permalink": "/docs/tags/communication",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/communication",
     "count": 2
   },
   {
     "label": "examples",
-    "permalink": "/docs/tags/examples",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/examples",
     "count": 4
   },
   {
     "label": "code",
-    "permalink": "/docs/tags/code",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/code",
     "count": 4
   },
   {
     "label": "implementation",
-    "permalink": "/docs/tags/implementation",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/implementation",
     "count": 4
   },
   {
     "label": "exercises",
-    "permalink": "/docs/tags/exercises",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/exercises",
     "count": 4
   },
   {
     "label": "practice",
-    "permalink": "/docs/tags/practice",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/practice",
     "count": 4
   },
   {
     "label": "problems",
-    "permalink": "/docs/tags/problems",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/problems",
     "count": 3
   },
   {
     "label": "concepts",
-    "permalink": "/docs/tags/concepts",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/concepts",
     "count": 2
   },
   {
     "label": "nodes",
-    "permalink": "/docs/tags/nodes",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/nodes",
     "count": 1
   },
   {
     "label": "patterns",
-    "permalink": "/docs/tags/patterns",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/patterns",
     "count": 2
   },
   {
     "label": "digital-twin",
-    "permalink": "/docs/tags/digital-twin",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/digital-twin",
     "count": 5
   },
   {
     "label": "simulation",
-    "permalink": "/docs/tags/simulation",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/simulation",
     "count": 6
   },
   {
     "label": "theory",
-    "permalink": "/docs/tags/theory",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/theory",
     "count": 1
   },
   {
     "label": "modeling",
-    "permalink": "/docs/tags/modeling",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/modeling",
     "count": 1
   },
   {
     "label": "gazebo",
-    "permalink": "/docs/tags/gazebo",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/gazebo",
     "count": 2
   },
   {
     "label": "physics-engine",
-    "permalink": "/docs/tags/physics-engine",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/physics-engine",
     "count": 1
   },
   {
     "label": "unity",
-    "permalink": "/docs/tags/unity",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/unity",
     "count": 2
   },
   {
     "label": "game-engine",
-    "permalink": "/docs/tags/game-engine",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/game-engine",
     "count": 1
   },
   {
     "label": "nvidia-isaac",
-    "permalink": "/docs/tags/nvidia-isaac",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/nvidia-isaac",
     "count": 5
   },
   {
     "label": "ai",
-    "permalink": "/docs/tags/ai",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/ai",
     "count": 5
   },
   {
     "label": "deep-learning",
-    "permalink": "/docs/tags/deep-learning",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/deep-learning",
     "count": 2
   },
   {
     "label": "computer-vision",
-    "permalink": "/docs/tags/computer-vision",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/computer-vision",
     "count": 2
   },
   {
     "label": "machine-learning",
-    "permalink": "/docs/tags/machine-learning",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/machine-learning",
     "count": 1
   },
   {
     "label": "components",
-    "permalink": "/docs/tags/components",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/components",
     "count": 1
   },
   {
     "label": "ai-framework",
-    "permalink": "/docs/tags/ai-framework",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/ai-framework",
     "count": 2
   },
   {
     "label": "ai-robotics",
-    "permalink": "/docs/tags/ai-robotics",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/ai-robotics",
     "count": 2
   },
   {
     "label": "platform",
-    "permalink": "/docs/tags/platform",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/platform",
     "count": 1
   },
   {
     "label": "overview",
-    "permalink": "/docs/tags/overview",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/overview",
     "count": 1
   },
   {
     "label": "vla",
-    "permalink": "/docs/tags/vla",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/vla",
     "count": 7
   },
   {
     "label": "capstone",
-    "permalink": "/docs/tags/capstone",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/capstone",
     "count": 1
   },
   {
     "label": "vision-language-action",
-    "permalink": "/docs/tags/vision-language-action",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/vision-language-action",
     "count": 7
   },
   {
     "label": "integration",
-    "permalink": "/docs/tags/integration",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/integration",
     "count": 2
   },
   {
     "label": "project",
-    "permalink": "/docs/tags/project",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/project",
     "count": 1
   },
   {
     "label": "multimodal",
-    "permalink": "/docs/tags/multimodal",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/multimodal",
     "count": 1
   },
   {
     "label": "advanced-robotics",
-    "permalink": "/docs/tags/advanced-robotics",
+    "permalink": "/physical-ai-humanoid-book/docs/tags/advanced-robotics",
     "count": 1
   }
 ]

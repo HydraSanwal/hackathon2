@@ -5,30 +5,30 @@
   "source": "@site/docs/module4/vla_architecture.md",
   "sourceDirName": "module4",
   "slug": "/module4/vla_architecture",
-  "permalink": "/docs/module4/vla_architecture",
+  "permalink": "/physical-ai-humanoid-book/docs/module4/vla_architecture",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module4/vla_architecture.md",
   "tags": [
     {
       "label": "vla",
-      "permalink": "/docs/tags/vla"
+      "permalink": "/physical-ai-humanoid-book/docs/tags/vla"
     },
     {
       "label": "architecture",
-      "permalink": "/docs/tags/architecture"
+      "permalink": "/physical-ai-humanoid-book/docs/tags/architecture"
     },
     {
       "label": "vision-language-action",
-      "permalink": "/docs/tags/vision-language-action"
+      "permalink": "/physical-ai-humanoid-book/docs/tags/vision-language-action"
     },
     {
       "label": "ai-framework",
-      "permalink": "/docs/tags/ai-framework"
+      "permalink": "/physical-ai-humanoid-book/docs/tags/ai-framework"
     },
     {
       "label": "robotics",
-      "permalink": "/docs/tags/robotics"
+      "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
     }
   ],
   "version": "current",
@@ -48,10 +48,10 @@
   "sidebar": "module4Sidebar",
   "previous": {
     "title": "VLA Fundamentals",
-    "permalink": "/docs/module4/vla_fundamentals"
+    "permalink": "/physical-ai-humanoid-book/docs/module4/vla_fundamentals"
   },
   "next": {
     "title": "VLA Integration Patterns",
-    "permalink": "/docs/module4/vla_integration"
+    "permalink": "/physical-ai-humanoid-book/docs/module4/vla_integration"
   }
 }

@@ -5,30 +5,30 @@
   "source": "@site/docs/module4/vla_integration.md",
   "sourceDirName": "module4",
   "slug": "/module4/vla_integration",
-  "permalink": "/docs/module4/vla_integration",
+  "permalink": "/physical-ai-humanoid-book/docs/module4/vla_integration",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module4/vla_integration.md",
   "tags": [
     {
       "label": "vla",
-      "permalink": "/docs/tags/vla"
+      "permalink": "/physical-ai-humanoid-book/docs/tags/vla"
     },
     {
       "label": "integration",
-      "permalink": "/docs/tags/integration"
+      "permalink": "/physical-ai-humanoid-book/docs/tags/integration"
     },
     {
       "label": "vision-language-action",
-      "permalink": "/docs/tags/vision-language-action"
+      "permalink": "/physical-ai-humanoid-book/docs/tags/vision-language-action"
     },
     {
       "label": "patterns",
-      "permalink": "/docs/tags/patterns"
+      "permalink": "/physical-ai-humanoid-book/docs/tags/patterns"
     },
     {
       "label": "robotics",
-      "permalink": "/docs/tags/robotics"
+      "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
     }
   ],
   "version": "current",
@@ -48,10 +48,10 @@
   "sidebar": "module4Sidebar",
   "previous": {
     "title": "VLA Architecture and Integration",
-    "permalink": "/docs/module4/vla_architecture"
+    "permalink": "/physical-ai-humanoid-book/docs/module4/vla_architecture"
   },
   "next": {
     "title": "VLA Code Examples",
-    "permalink": "/docs/module4/vla_examples"
+    "permalink": "/physical-ai-humanoid-book/docs/module4/vla_examples"
   }
 }

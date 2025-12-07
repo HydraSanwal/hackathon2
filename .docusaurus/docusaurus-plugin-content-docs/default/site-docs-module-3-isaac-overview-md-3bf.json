@@ -5,30 +5,30 @@
   "source": "@site/docs/module3/isaac_overview.md",
   "sourceDirName": "module3",
   "slug": "/module3/isaac_overview",
-  "permalink": "/docs/module3/isaac_overview",
+  "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_overview",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module3/isaac_overview.md",
   "tags": [
     {
       "label": "nvidia-isaac",
-      "permalink": "/docs/tags/nvidia-isaac"
+      "permalink": "/physical-ai-humanoid-book/docs/tags/nvidia-isaac"
     },
     {
       "label": "ai",
-      "permalink": "/docs/tags/ai"
+      "permalink": "/physical-ai-humanoid-book/docs/tags/ai"
     },
     {
       "label": "robotics",
-      "permalink": "/docs/tags/robotics"
+      "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
     },
     {
       "label": "platform",
-      "permalink": "/docs/tags/platform"
+      "permalink": "/physical-ai-humanoid-book/docs/tags/platform"
     },
     {
       "label": "overview",
-      "permalink": "/docs/tags/overview"
+      "permalink": "/physical-ai-humanoid-book/docs/tags/overview"
     }
   ],
   "version": "current",
@@ -48,10 +48,10 @@
   "sidebar": "module3Sidebar",
   "previous": {
     "title": "Module 3 - NVIDIA Isaac AI-Robot Brain",
-    "permalink": "/docs/module3/"
+    "permalink": "/physical-ai-humanoid-book/docs/module3/"
   },
   "next": {
     "title": "Isaac Architecture and Components",
-    "permalink": "/docs/module3/isaac_architecture"
+    "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_architecture"
   }
 }

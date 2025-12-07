@@ -5,30 +5,30 @@
   "source": "@site/docs/module2/digital_twin_theory.md",
   "sourceDirName": "module2",
   "slug": "/module2/digital_twin_theory",
-  "permalink": "/docs/module2/digital_twin_theory",
+  "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_theory",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module2/digital_twin_theory.md",
   "tags": [
     {
       "label": "digital-twin",
-      "permalink": "/docs/tags/digital-twin"
+      "permalink": "/physical-ai-humanoid-book/docs/tags/digital-twin"
     },
     {
       "label": "theory",
-      "permalink": "/docs/tags/theory"
+      "permalink": "/physical-ai-humanoid-book/docs/tags/theory"
     },
     {
       "label": "concepts",
-      "permalink": "/docs/tags/concepts"
+      "permalink": "/physical-ai-humanoid-book/docs/tags/concepts"
     },
     {
       "label": "simulation",
-      "permalink": "/docs/tags/simulation"
+      "permalink": "/physical-ai-humanoid-book/docs/tags/simulation"
     },
     {
       "label": "modeling",
-      "permalink": "/docs/tags/modeling"
+      "permalink": "/physical-ai-humanoid-book/docs/tags/modeling"
     }
   ],
   "version": "current",
@@ -48,10 +48,10 @@
   "sidebar": "module2Sidebar",
   "previous": {
     "title": "Unity Integration in Robotics",
-    "permalink": "/docs/module2/unity_integration"
+    "permalink": "/physical-ai-humanoid-book/docs/module2/unity_integration"
   },
   "next": {
     "title": "Digital Twin Code Examples",
-    "permalink": "/docs/module2/digital_twin_examples"
+    "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_examples"
   }
 }
