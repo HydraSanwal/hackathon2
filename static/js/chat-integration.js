@@ -174,7 +174,7 @@
 
       try {
         // Call backend API
-        const response = await fetch('http://localhost:8000/api/chat', {
+        const response = await fetch('https://shimmering-respect-environment.up.railway.app/api/chat', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
@@ -331,7 +331,7 @@
       document.getElementById('chatbot-panel').style.display = 'block';
     }
 
-    // Add the selected text to the input field or send it directly
+    // Add the selected text to the input field
     setTimeout(() => {
       const inputElement = document.getElementById('chat-input');
       if (inputElement) {
