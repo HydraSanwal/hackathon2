@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '468'),
+    component: ComponentCreator('/docs', '232'),
     routes: [
       {
         path: '/docs',
@@ -387,7 +387,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '245'),
+    component: ComponentCreator('/', 'b3b'),
     exact: true
   },
   {

@@ -49,6 +49,12 @@ const config = {
     ],
   ],
 
+  scripts: [
+    {
+      src: '/js/chat-integration.js',
+      async: false, // Load synchronously to ensure it's available when page loads
+    },
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({

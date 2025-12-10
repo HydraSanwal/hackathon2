@@ -9,15 +9,15 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/physical-ai-humanoid-book/docs",
-          "tagsPath": "/physical-ai-humanoid-book/docs/tags",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\Hydra Sanwal\\Documents\\Claude\\hackathon2\\sidebars.js",
-          "contentPath": "C:\\Users\\Hydra Sanwal\\Documents\\Claude\\hackathon2\\docs",
-          "contentPathLocalized": "C:\\Users\\Hydra Sanwal\\Documents\\Claude\\hackathon2\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "C:\\Users\\Hydra Sanwal\\Documents\\hackathon2\\sidebars.js",
+          "contentPath": "C:\\Users\\Hydra Sanwal\\Documents\\hackathon2\\docs",
+          "contentPathLocalized": "C:\\Users\\Hydra Sanwal\\Documents\\hackathon2\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "id": "index",
@@ -26,7 +26,7 @@
               "source": "@site/docs/index.md",
               "sourceDirName": ".",
               "slug": "/",
-              "permalink": "/physical-ai-humanoid-book/docs/",
+              "permalink": "/docs/",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/index.md",
@@ -47,26 +47,26 @@
               "source": "@site/docs/module1/index.md",
               "sourceDirName": "module1",
               "slug": "/module1/",
-              "permalink": "/physical-ai-humanoid-book/docs/module1/",
+              "permalink": "/docs/module1/",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module1/index.md",
               "tags": [
                 {
                   "label": "ros2",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/ros-2"
+                  "permalink": "/docs/tags/ros-2"
                 },
                 {
                   "label": "robotics",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                  "permalink": "/docs/tags/robotics"
                 },
                 {
                   "label": "introduction",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/introduction"
+                  "permalink": "/docs/tags/introduction"
                 },
                 {
                   "label": "fundamentals",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/fundamentals"
+                  "permalink": "/docs/tags/fundamentals"
                 }
               ],
               "version": "current",
@@ -85,7 +85,7 @@
               "sidebar": "module1Sidebar",
               "next": {
                 "title": "Module 1 - ROS 2 Robotic Nervous System",
-                "permalink": "/physical-ai-humanoid-book/docs/module1/"
+                "permalink": "/docs/module1/"
               }
             },
             {
@@ -95,26 +95,26 @@
               "source": "@site/docs/module1/ros2_architecture.md",
               "sourceDirName": "module1",
               "slug": "/module1/ros2_architecture",
-              "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_architecture",
+              "permalink": "/docs/module1/ros2_architecture",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module1/ros2_architecture.md",
               "tags": [
                 {
                   "label": "ros2",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/ros-2"
+                  "permalink": "/docs/tags/ros-2"
                 },
                 {
                   "label": "architecture",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/architecture"
+                  "permalink": "/docs/tags/architecture"
                 },
                 {
                   "label": "design",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/design"
+                  "permalink": "/docs/tags/design"
                 },
                 {
                   "label": "communication",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/communication"
+                  "permalink": "/docs/tags/communication"
                 }
               ],
               "version": "current",
@@ -133,11 +133,11 @@
               "sidebar": "module1Sidebar",
               "previous": {
                 "title": "Introduction to ROS 2",
-                "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_intro"
+                "permalink": "/docs/module1/ros2_intro"
               },
               "next": {
                 "title": "ROS 2 Nodes and Communication Patterns",
-                "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_nodes"
+                "permalink": "/docs/module1/ros2_nodes"
               }
             },
             {
@@ -147,26 +147,26 @@
               "source": "@site/docs/module1/ros2_examples.md",
               "sourceDirName": "module1",
               "slug": "/module1/ros2_examples",
-              "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_examples",
+              "permalink": "/docs/module1/ros2_examples",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module1/ros2_examples.md",
               "tags": [
                 {
                   "label": "ros2",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/ros-2"
+                  "permalink": "/docs/tags/ros-2"
                 },
                 {
                   "label": "examples",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/examples"
+                  "permalink": "/docs/tags/examples"
                 },
                 {
                   "label": "code",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/code"
+                  "permalink": "/docs/tags/code"
                 },
                 {
                   "label": "implementation",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/implementation"
+                  "permalink": "/docs/tags/implementation"
                 }
               ],
               "version": "current",
@@ -185,11 +185,11 @@
               "sidebar": "module1Sidebar",
               "previous": {
                 "title": "ROS 2 Nodes and Communication Patterns",
-                "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_nodes"
+                "permalink": "/docs/module1/ros2_nodes"
               },
               "next": {
                 "title": "ROS 2 Exercises",
-                "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_exercises"
+                "permalink": "/docs/module1/ros2_exercises"
               }
             },
             {
@@ -199,26 +199,26 @@
               "source": "@site/docs/module1/ros2_exercises.md",
               "sourceDirName": "module1",
               "slug": "/module1/ros2_exercises",
-              "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_exercises",
+              "permalink": "/docs/module1/ros2_exercises",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module1/ros2_exercises.md",
               "tags": [
                 {
                   "label": "ros2",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/ros-2"
+                  "permalink": "/docs/tags/ros-2"
                 },
                 {
                   "label": "exercises",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/exercises"
+                  "permalink": "/docs/tags/exercises"
                 },
                 {
                   "label": "practice",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/practice"
+                  "permalink": "/docs/tags/practice"
                 },
                 {
                   "label": "problems",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/problems"
+                  "permalink": "/docs/tags/problems"
                 }
               ],
               "version": "current",
@@ -237,7 +237,7 @@
               "sidebar": "module1Sidebar",
               "previous": {
                 "title": "ROS 2 Code Examples",
-                "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_examples"
+                "permalink": "/docs/module1/ros2_examples"
               }
             },
             {
@@ -247,26 +247,26 @@
               "source": "@site/docs/module1/ros2_intro.md",
               "sourceDirName": "module1",
               "slug": "/module1/ros2_intro",
-              "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_intro",
+              "permalink": "/docs/module1/ros2_intro",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module1/ros2_intro.md",
               "tags": [
                 {
                   "label": "ros2",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/ros-2"
+                  "permalink": "/docs/tags/ros-2"
                 },
                 {
                   "label": "introduction",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/introduction"
+                  "permalink": "/docs/tags/introduction"
                 },
                 {
                   "label": "concepts",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/concepts"
+                  "permalink": "/docs/tags/concepts"
                 },
                 {
                   "label": "fundamentals",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/fundamentals"
+                  "permalink": "/docs/tags/fundamentals"
                 }
               ],
               "version": "current",
@@ -285,11 +285,11 @@
               "sidebar": "module1Sidebar",
               "previous": {
                 "title": "Module 1 - ROS 2 Robotic Nervous System",
-                "permalink": "/physical-ai-humanoid-book/docs/module1/"
+                "permalink": "/docs/module1/"
               },
               "next": {
                 "title": "ROS 2 Architecture",
-                "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_architecture"
+                "permalink": "/docs/module1/ros2_architecture"
               }
             },
             {
@@ -299,26 +299,26 @@
               "source": "@site/docs/module1/ros2_nodes.md",
               "sourceDirName": "module1",
               "slug": "/module1/ros2_nodes",
-              "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_nodes",
+              "permalink": "/docs/module1/ros2_nodes",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module1/ros2_nodes.md",
               "tags": [
                 {
                   "label": "ros2",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/ros-2"
+                  "permalink": "/docs/tags/ros-2"
                 },
                 {
                   "label": "nodes",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/nodes"
+                  "permalink": "/docs/tags/nodes"
                 },
                 {
                   "label": "communication",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/communication"
+                  "permalink": "/docs/tags/communication"
                 },
                 {
                   "label": "patterns",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/patterns"
+                  "permalink": "/docs/tags/patterns"
                 }
               ],
               "version": "current",
@@ -337,11 +337,11 @@
               "sidebar": "module1Sidebar",
               "previous": {
                 "title": "ROS 2 Architecture",
-                "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_architecture"
+                "permalink": "/docs/module1/ros2_architecture"
               },
               "next": {
                 "title": "ROS 2 Code Examples",
-                "permalink": "/physical-ai-humanoid-book/docs/module1/ros2_examples"
+                "permalink": "/docs/module1/ros2_examples"
               }
             },
             {
@@ -351,30 +351,30 @@
               "source": "@site/docs/module2/digital_twin_examples.md",
               "sourceDirName": "module2",
               "slug": "/module2/digital_twin_examples",
-              "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_examples",
+              "permalink": "/docs/module2/digital_twin_examples",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module2/digital_twin_examples.md",
               "tags": [
                 {
                   "label": "digital-twin",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/digital-twin"
+                  "permalink": "/docs/tags/digital-twin"
                 },
                 {
                   "label": "examples",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/examples"
+                  "permalink": "/docs/tags/examples"
                 },
                 {
                   "label": "code",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/code"
+                  "permalink": "/docs/tags/code"
                 },
                 {
                   "label": "simulation",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/simulation"
+                  "permalink": "/docs/tags/simulation"
                 },
                 {
                   "label": "implementation",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/implementation"
+                  "permalink": "/docs/tags/implementation"
                 }
               ],
               "version": "current",
@@ -394,11 +394,11 @@
               "sidebar": "module2Sidebar",
               "previous": {
                 "title": "Digital Twin Theory and Concepts",
-                "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_theory"
+                "permalink": "/docs/module2/digital_twin_theory"
               },
               "next": {
                 "title": "Digital Twin Exercises",
-                "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_exercises"
+                "permalink": "/docs/module2/digital_twin_exercises"
               }
             },
             {
@@ -408,30 +408,30 @@
               "source": "@site/docs/module2/digital_twin_exercises.md",
               "sourceDirName": "module2",
               "slug": "/module2/digital_twin_exercises",
-              "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_exercises",
+              "permalink": "/docs/module2/digital_twin_exercises",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module2/digital_twin_exercises.md",
               "tags": [
                 {
                   "label": "digital-twin",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/digital-twin"
+                  "permalink": "/docs/tags/digital-twin"
                 },
                 {
                   "label": "exercises",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/exercises"
+                  "permalink": "/docs/tags/exercises"
                 },
                 {
                   "label": "practice",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/practice"
+                  "permalink": "/docs/tags/practice"
                 },
                 {
                   "label": "simulation",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/simulation"
+                  "permalink": "/docs/tags/simulation"
                 },
                 {
                   "label": "problems",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/problems"
+                  "permalink": "/docs/tags/problems"
                 }
               ],
               "version": "current",
@@ -451,7 +451,7 @@
               "sidebar": "module2Sidebar",
               "previous": {
                 "title": "Digital Twin Code Examples",
-                "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_examples"
+                "permalink": "/docs/module2/digital_twin_examples"
               }
             },
             {
@@ -461,30 +461,30 @@
               "source": "@site/docs/module2/digital_twin_theory.md",
               "sourceDirName": "module2",
               "slug": "/module2/digital_twin_theory",
-              "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_theory",
+              "permalink": "/docs/module2/digital_twin_theory",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module2/digital_twin_theory.md",
               "tags": [
                 {
                   "label": "digital-twin",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/digital-twin"
+                  "permalink": "/docs/tags/digital-twin"
                 },
                 {
                   "label": "theory",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/theory"
+                  "permalink": "/docs/tags/theory"
                 },
                 {
                   "label": "concepts",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/concepts"
+                  "permalink": "/docs/tags/concepts"
                 },
                 {
                   "label": "simulation",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/simulation"
+                  "permalink": "/docs/tags/simulation"
                 },
                 {
                   "label": "modeling",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/modeling"
+                  "permalink": "/docs/tags/modeling"
                 }
               ],
               "version": "current",
@@ -504,11 +504,11 @@
               "sidebar": "module2Sidebar",
               "previous": {
                 "title": "Unity Integration in Robotics",
-                "permalink": "/physical-ai-humanoid-book/docs/module2/unity_integration"
+                "permalink": "/docs/module2/unity_integration"
               },
               "next": {
                 "title": "Digital Twin Code Examples",
-                "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_examples"
+                "permalink": "/docs/module2/digital_twin_examples"
               }
             },
             {
@@ -518,26 +518,26 @@
               "source": "@site/docs/module2/gazebo_basics.md",
               "sourceDirName": "module2",
               "slug": "/module2/gazebo_basics",
-              "permalink": "/physical-ai-humanoid-book/docs/module2/gazebo_basics",
+              "permalink": "/docs/module2/gazebo_basics",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module2/gazebo_basics.md",
               "tags": [
                 {
                   "label": "gazebo",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/gazebo"
+                  "permalink": "/docs/tags/gazebo"
                 },
                 {
                   "label": "simulation",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/simulation"
+                  "permalink": "/docs/tags/simulation"
                 },
                 {
                   "label": "robotics",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                  "permalink": "/docs/tags/robotics"
                 },
                 {
                   "label": "physics-engine",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/physics-engine"
+                  "permalink": "/docs/tags/physics-engine"
                 }
               ],
               "version": "current",
@@ -556,11 +556,11 @@
               "sidebar": "module2Sidebar",
               "previous": {
                 "title": "Module 2 - Digital Twin (Gazebo & Unity)",
-                "permalink": "/physical-ai-humanoid-book/docs/module2/"
+                "permalink": "/docs/module2/"
               },
               "next": {
                 "title": "Unity Integration in Robotics",
-                "permalink": "/physical-ai-humanoid-book/docs/module2/unity_integration"
+                "permalink": "/docs/module2/unity_integration"
               }
             },
             {
@@ -570,30 +570,30 @@
               "source": "@site/docs/module2/index.md",
               "sourceDirName": "module2",
               "slug": "/module2/",
-              "permalink": "/physical-ai-humanoid-book/docs/module2/",
+              "permalink": "/docs/module2/",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module2/index.md",
               "tags": [
                 {
                   "label": "digital-twin",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/digital-twin"
+                  "permalink": "/docs/tags/digital-twin"
                 },
                 {
                   "label": "gazebo",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/gazebo"
+                  "permalink": "/docs/tags/gazebo"
                 },
                 {
                   "label": "unity",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/unity"
+                  "permalink": "/docs/tags/unity"
                 },
                 {
                   "label": "simulation",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/simulation"
+                  "permalink": "/docs/tags/simulation"
                 },
                 {
                   "label": "robotics",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                  "permalink": "/docs/tags/robotics"
                 }
               ],
               "version": "current",
@@ -613,7 +613,7 @@
               "sidebar": "module2Sidebar",
               "next": {
                 "title": "Module 2 - Digital Twin (Gazebo & Unity)",
-                "permalink": "/physical-ai-humanoid-book/docs/module2/"
+                "permalink": "/docs/module2/"
               }
             },
             {
@@ -623,30 +623,30 @@
               "source": "@site/docs/module2/unity_integration.md",
               "sourceDirName": "module2",
               "slug": "/module2/unity_integration",
-              "permalink": "/physical-ai-humanoid-book/docs/module2/unity_integration",
+              "permalink": "/docs/module2/unity_integration",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module2/unity_integration.md",
               "tags": [
                 {
                   "label": "unity",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/unity"
+                  "permalink": "/docs/tags/unity"
                 },
                 {
                   "label": "digital-twin",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/digital-twin"
+                  "permalink": "/docs/tags/digital-twin"
                 },
                 {
                   "label": "simulation",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/simulation"
+                  "permalink": "/docs/tags/simulation"
                 },
                 {
                   "label": "game-engine",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/game-engine"
+                  "permalink": "/docs/tags/game-engine"
                 },
                 {
                   "label": "robotics",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                  "permalink": "/docs/tags/robotics"
                 }
               ],
               "version": "current",
@@ -666,11 +666,11 @@
               "sidebar": "module2Sidebar",
               "previous": {
                 "title": "Gazebo Simulation Basics",
-                "permalink": "/physical-ai-humanoid-book/docs/module2/gazebo_basics"
+                "permalink": "/docs/module2/gazebo_basics"
               },
               "next": {
                 "title": "Digital Twin Theory and Concepts",
-                "permalink": "/physical-ai-humanoid-book/docs/module2/digital_twin_theory"
+                "permalink": "/docs/module2/digital_twin_theory"
               }
             },
             {
@@ -680,30 +680,30 @@
               "source": "@site/docs/module3/index.md",
               "sourceDirName": "module3",
               "slug": "/module3/",
-              "permalink": "/physical-ai-humanoid-book/docs/module3/",
+              "permalink": "/docs/module3/",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module3/index.md",
               "tags": [
                 {
                   "label": "nvidia-isaac",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/nvidia-isaac"
+                  "permalink": "/docs/tags/nvidia-isaac"
                 },
                 {
                   "label": "ai",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/ai"
+                  "permalink": "/docs/tags/ai"
                 },
                 {
                   "label": "robotics",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                  "permalink": "/docs/tags/robotics"
                 },
                 {
                   "label": "deep-learning",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/deep-learning"
+                  "permalink": "/docs/tags/deep-learning"
                 },
                 {
                   "label": "computer-vision",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/computer-vision"
+                  "permalink": "/docs/tags/computer-vision"
                 }
               ],
               "version": "current",
@@ -723,7 +723,7 @@
               "sidebar": "module3Sidebar",
               "next": {
                 "title": "Module 3 - NVIDIA Isaac AI-Robot Brain",
-                "permalink": "/physical-ai-humanoid-book/docs/module3/"
+                "permalink": "/docs/module3/"
               }
             },
             {
@@ -733,30 +733,30 @@
               "source": "@site/docs/module3/isaac_ai_concepts.md",
               "sourceDirName": "module3",
               "slug": "/module3/isaac_ai_concepts",
-              "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_ai_concepts",
+              "permalink": "/docs/module3/isaac_ai_concepts",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module3/isaac_ai_concepts.md",
               "tags": [
                 {
                   "label": "ai",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/ai"
+                  "permalink": "/docs/tags/ai"
                 },
                 {
                   "label": "robotics",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                  "permalink": "/docs/tags/robotics"
                 },
                 {
                   "label": "machine-learning",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/machine-learning"
+                  "permalink": "/docs/tags/machine-learning"
                 },
                 {
                   "label": "computer-vision",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/computer-vision"
+                  "permalink": "/docs/tags/computer-vision"
                 },
                 {
                   "label": "deep-learning",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/deep-learning"
+                  "permalink": "/docs/tags/deep-learning"
                 }
               ],
               "version": "current",
@@ -776,11 +776,11 @@
               "sidebar": "module3Sidebar",
               "previous": {
                 "title": "Isaac Architecture and Components",
-                "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_architecture"
+                "permalink": "/docs/module3/isaac_architecture"
               },
               "next": {
                 "title": "Isaac Code Examples",
-                "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_examples"
+                "permalink": "/docs/module3/isaac_examples"
               }
             },
             {
@@ -790,26 +790,26 @@
               "source": "@site/docs/module3/isaac_architecture.md",
               "sourceDirName": "module3",
               "slug": "/module3/isaac_architecture",
-              "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_architecture",
+              "permalink": "/docs/module3/isaac_architecture",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module3/isaac_architecture.md",
               "tags": [
                 {
                   "label": "nvidia-isaac",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/nvidia-isaac"
+                  "permalink": "/docs/tags/nvidia-isaac"
                 },
                 {
                   "label": "architecture",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/architecture"
+                  "permalink": "/docs/tags/architecture"
                 },
                 {
                   "label": "components",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/components"
+                  "permalink": "/docs/tags/components"
                 },
                 {
                   "label": "ai-framework",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/ai-framework"
+                  "permalink": "/docs/tags/ai-framework"
                 }
               ],
               "version": "current",
@@ -828,11 +828,11 @@
               "sidebar": "module3Sidebar",
               "previous": {
                 "title": "NVIDIA Isaac Platform Overview",
-                "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_overview"
+                "permalink": "/docs/module3/isaac_overview"
               },
               "next": {
                 "title": "AI Concepts for Robotics",
-                "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_ai_concepts"
+                "permalink": "/docs/module3/isaac_ai_concepts"
               }
             },
             {
@@ -842,30 +842,30 @@
               "source": "@site/docs/module3/isaac_examples.md",
               "sourceDirName": "module3",
               "slug": "/module3/isaac_examples",
-              "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_examples",
+              "permalink": "/docs/module3/isaac_examples",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module3/isaac_examples.md",
               "tags": [
                 {
                   "label": "nvidia-isaac",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/nvidia-isaac"
+                  "permalink": "/docs/tags/nvidia-isaac"
                 },
                 {
                   "label": "examples",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/examples"
+                  "permalink": "/docs/tags/examples"
                 },
                 {
                   "label": "code",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/code"
+                  "permalink": "/docs/tags/code"
                 },
                 {
                   "label": "ai-robotics",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/ai-robotics"
+                  "permalink": "/docs/tags/ai-robotics"
                 },
                 {
                   "label": "implementation",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/implementation"
+                  "permalink": "/docs/tags/implementation"
                 }
               ],
               "version": "current",
@@ -885,11 +885,11 @@
               "sidebar": "module3Sidebar",
               "previous": {
                 "title": "AI Concepts for Robotics",
-                "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_ai_concepts"
+                "permalink": "/docs/module3/isaac_ai_concepts"
               },
               "next": {
                 "title": "Isaac Exercises",
-                "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_exercises"
+                "permalink": "/docs/module3/isaac_exercises"
               }
             },
             {
@@ -899,30 +899,30 @@
               "source": "@site/docs/module3/isaac_exercises.md",
               "sourceDirName": "module3",
               "slug": "/module3/isaac_exercises",
-              "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_exercises",
+              "permalink": "/docs/module3/isaac_exercises",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module3/isaac_exercises.md",
               "tags": [
                 {
                   "label": "nvidia-isaac",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/nvidia-isaac"
+                  "permalink": "/docs/tags/nvidia-isaac"
                 },
                 {
                   "label": "exercises",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/exercises"
+                  "permalink": "/docs/tags/exercises"
                 },
                 {
                   "label": "practice",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/practice"
+                  "permalink": "/docs/tags/practice"
                 },
                 {
                   "label": "ai-robotics",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/ai-robotics"
+                  "permalink": "/docs/tags/ai-robotics"
                 },
                 {
                   "label": "problems",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/problems"
+                  "permalink": "/docs/tags/problems"
                 }
               ],
               "version": "current",
@@ -942,7 +942,7 @@
               "sidebar": "module3Sidebar",
               "previous": {
                 "title": "Isaac Code Examples",
-                "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_examples"
+                "permalink": "/docs/module3/isaac_examples"
               }
             },
             {
@@ -952,30 +952,30 @@
               "source": "@site/docs/module3/isaac_overview.md",
               "sourceDirName": "module3",
               "slug": "/module3/isaac_overview",
-              "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_overview",
+              "permalink": "/docs/module3/isaac_overview",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module3/isaac_overview.md",
               "tags": [
                 {
                   "label": "nvidia-isaac",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/nvidia-isaac"
+                  "permalink": "/docs/tags/nvidia-isaac"
                 },
                 {
                   "label": "ai",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/ai"
+                  "permalink": "/docs/tags/ai"
                 },
                 {
                   "label": "robotics",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                  "permalink": "/docs/tags/robotics"
                 },
                 {
                   "label": "platform",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/platform"
+                  "permalink": "/docs/tags/platform"
                 },
                 {
                   "label": "overview",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/overview"
+                  "permalink": "/docs/tags/overview"
                 }
               ],
               "version": "current",
@@ -995,11 +995,11 @@
               "sidebar": "module3Sidebar",
               "previous": {
                 "title": "Module 3 - NVIDIA Isaac AI-Robot Brain",
-                "permalink": "/physical-ai-humanoid-book/docs/module3/"
+                "permalink": "/docs/module3/"
               },
               "next": {
                 "title": "Isaac Architecture and Components",
-                "permalink": "/physical-ai-humanoid-book/docs/module3/isaac_architecture"
+                "permalink": "/docs/module3/isaac_architecture"
               }
             },
             {
@@ -1009,34 +1009,34 @@
               "source": "@site/docs/module4/capstone_project.md",
               "sourceDirName": "module4",
               "slug": "/module4/capstone_project",
-              "permalink": "/physical-ai-humanoid-book/docs/module4/capstone_project",
+              "permalink": "/docs/module4/capstone_project",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module4/capstone_project.md",
               "tags": [
                 {
                   "label": "vla",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/vla"
+                  "permalink": "/docs/tags/vla"
                 },
                 {
                   "label": "capstone",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/capstone"
+                  "permalink": "/docs/tags/capstone"
                 },
                 {
                   "label": "vision-language-action",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/vision-language-action"
+                  "permalink": "/docs/tags/vision-language-action"
                 },
                 {
                   "label": "robotics",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                  "permalink": "/docs/tags/robotics"
                 },
                 {
                   "label": "integration",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/integration"
+                  "permalink": "/docs/tags/integration"
                 },
                 {
                   "label": "project",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/project"
+                  "permalink": "/docs/tags/project"
                 }
               ],
               "version": "current",
@@ -1057,7 +1057,7 @@
               "sidebar": "module4Sidebar",
               "previous": {
                 "title": "VLA Exercises",
-                "permalink": "/physical-ai-humanoid-book/docs/module4/vla_exercises"
+                "permalink": "/docs/module4/vla_exercises"
               }
             },
             {
@@ -1067,34 +1067,34 @@
               "source": "@site/docs/module4/index.md",
               "sourceDirName": "module4",
               "slug": "/module4/",
-              "permalink": "/physical-ai-humanoid-book/docs/module4/",
+              "permalink": "/docs/module4/",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module4/index.md",
               "tags": [
                 {
                   "label": "vla",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/vla"
+                  "permalink": "/docs/tags/vla"
                 },
                 {
                   "label": "vision-language-action",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/vision-language-action"
+                  "permalink": "/docs/tags/vision-language-action"
                 },
                 {
                   "label": "ai",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/ai"
+                  "permalink": "/docs/tags/ai"
                 },
                 {
                   "label": "robotics",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                  "permalink": "/docs/tags/robotics"
                 },
                 {
                   "label": "multimodal",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/multimodal"
+                  "permalink": "/docs/tags/multimodal"
                 },
                 {
                   "label": "advanced-robotics",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/advanced-robotics"
+                  "permalink": "/docs/tags/advanced-robotics"
                 }
               ],
               "version": "current",
@@ -1115,7 +1115,7 @@
               "sidebar": "module4Sidebar",
               "next": {
                 "title": "Module 4 - Vision-Language-Action (VLA)",
-                "permalink": "/physical-ai-humanoid-book/docs/module4/"
+                "permalink": "/docs/module4/"
               }
             },
             {
@@ -1125,30 +1125,30 @@
               "source": "@site/docs/module4/vla_architecture.md",
               "sourceDirName": "module4",
               "slug": "/module4/vla_architecture",
-              "permalink": "/physical-ai-humanoid-book/docs/module4/vla_architecture",
+              "permalink": "/docs/module4/vla_architecture",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module4/vla_architecture.md",
               "tags": [
                 {
                   "label": "vla",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/vla"
+                  "permalink": "/docs/tags/vla"
                 },
                 {
                   "label": "architecture",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/architecture"
+                  "permalink": "/docs/tags/architecture"
                 },
                 {
                   "label": "vision-language-action",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/vision-language-action"
+                  "permalink": "/docs/tags/vision-language-action"
                 },
                 {
                   "label": "ai-framework",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/ai-framework"
+                  "permalink": "/docs/tags/ai-framework"
                 },
                 {
                   "label": "robotics",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                  "permalink": "/docs/tags/robotics"
                 }
               ],
               "version": "current",
@@ -1168,11 +1168,11 @@
               "sidebar": "module4Sidebar",
               "previous": {
                 "title": "VLA Fundamentals",
-                "permalink": "/physical-ai-humanoid-book/docs/module4/vla_fundamentals"
+                "permalink": "/docs/module4/vla_fundamentals"
               },
               "next": {
                 "title": "VLA Integration Patterns",
-                "permalink": "/physical-ai-humanoid-book/docs/module4/vla_integration"
+                "permalink": "/docs/module4/vla_integration"
               }
             },
             {
@@ -1182,30 +1182,30 @@
               "source": "@site/docs/module4/vla_examples.md",
               "sourceDirName": "module4",
               "slug": "/module4/vla_examples",
-              "permalink": "/physical-ai-humanoid-book/docs/module4/vla_examples",
+              "permalink": "/docs/module4/vla_examples",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module4/vla_examples.md",
               "tags": [
                 {
                   "label": "vla",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/vla"
+                  "permalink": "/docs/tags/vla"
                 },
                 {
                   "label": "examples",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/examples"
+                  "permalink": "/docs/tags/examples"
                 },
                 {
                   "label": "vision-language-action",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/vision-language-action"
+                  "permalink": "/docs/tags/vision-language-action"
                 },
                 {
                   "label": "code",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/code"
+                  "permalink": "/docs/tags/code"
                 },
                 {
                   "label": "implementation",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/implementation"
+                  "permalink": "/docs/tags/implementation"
                 }
               ],
               "version": "current",
@@ -1225,11 +1225,11 @@
               "sidebar": "module4Sidebar",
               "previous": {
                 "title": "VLA Integration Patterns",
-                "permalink": "/physical-ai-humanoid-book/docs/module4/vla_integration"
+                "permalink": "/docs/module4/vla_integration"
               },
               "next": {
                 "title": "VLA Exercises",
-                "permalink": "/physical-ai-humanoid-book/docs/module4/vla_exercises"
+                "permalink": "/docs/module4/vla_exercises"
               }
             },
             {
@@ -1239,30 +1239,30 @@
               "source": "@site/docs/module4/vla_exercises.md",
               "sourceDirName": "module4",
               "slug": "/module4/vla_exercises",
-              "permalink": "/physical-ai-humanoid-book/docs/module4/vla_exercises",
+              "permalink": "/docs/module4/vla_exercises",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module4/vla_exercises.md",
               "tags": [
                 {
                   "label": "vla",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/vla"
+                  "permalink": "/docs/tags/vla"
                 },
                 {
                   "label": "exercises",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/exercises"
+                  "permalink": "/docs/tags/exercises"
                 },
                 {
                   "label": "vision-language-action",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/vision-language-action"
+                  "permalink": "/docs/tags/vision-language-action"
                 },
                 {
                   "label": "robotics",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                  "permalink": "/docs/tags/robotics"
                 },
                 {
                   "label": "practice",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/practice"
+                  "permalink": "/docs/tags/practice"
                 }
               ],
               "version": "current",
@@ -1282,11 +1282,11 @@
               "sidebar": "module4Sidebar",
               "previous": {
                 "title": "VLA Code Examples",
-                "permalink": "/physical-ai-humanoid-book/docs/module4/vla_examples"
+                "permalink": "/docs/module4/vla_examples"
               },
               "next": {
                 "title": "VLA Capstone Project",
-                "permalink": "/physical-ai-humanoid-book/docs/module4/capstone_project"
+                "permalink": "/docs/module4/capstone_project"
               }
             },
             {
@@ -1296,30 +1296,30 @@
               "source": "@site/docs/module4/vla_fundamentals.md",
               "sourceDirName": "module4",
               "slug": "/module4/vla_fundamentals",
-              "permalink": "/physical-ai-humanoid-book/docs/module4/vla_fundamentals",
+              "permalink": "/docs/module4/vla_fundamentals",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module4/vla_fundamentals.md",
               "tags": [
                 {
                   "label": "vla",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/vla"
+                  "permalink": "/docs/tags/vla"
                 },
                 {
                   "label": "fundamentals",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/fundamentals"
+                  "permalink": "/docs/tags/fundamentals"
                 },
                 {
                   "label": "vision-language-action",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/vision-language-action"
+                  "permalink": "/docs/tags/vision-language-action"
                 },
                 {
                   "label": "ai",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/ai"
+                  "permalink": "/docs/tags/ai"
                 },
                 {
                   "label": "robotics",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                  "permalink": "/docs/tags/robotics"
                 }
               ],
               "version": "current",
@@ -1339,11 +1339,11 @@
               "sidebar": "module4Sidebar",
               "previous": {
                 "title": "Module 4 - Vision-Language-Action (VLA)",
-                "permalink": "/physical-ai-humanoid-book/docs/module4/"
+                "permalink": "/docs/module4/"
               },
               "next": {
                 "title": "VLA Architecture and Integration",
-                "permalink": "/physical-ai-humanoid-book/docs/module4/vla_architecture"
+                "permalink": "/docs/module4/vla_architecture"
               }
             },
             {
@@ -1353,30 +1353,30 @@
               "source": "@site/docs/module4/vla_integration.md",
               "sourceDirName": "module4",
               "slug": "/module4/vla_integration",
-              "permalink": "/physical-ai-humanoid-book/docs/module4/vla_integration",
+              "permalink": "/docs/module4/vla_integration",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module4/vla_integration.md",
               "tags": [
                 {
                   "label": "vla",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/vla"
+                  "permalink": "/docs/tags/vla"
                 },
                 {
                   "label": "integration",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/integration"
+                  "permalink": "/docs/tags/integration"
                 },
                 {
                   "label": "vision-language-action",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/vision-language-action"
+                  "permalink": "/docs/tags/vision-language-action"
                 },
                 {
                   "label": "patterns",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/patterns"
+                  "permalink": "/docs/tags/patterns"
                 },
                 {
                   "label": "robotics",
-                  "permalink": "/physical-ai-humanoid-book/docs/tags/robotics"
+                  "permalink": "/docs/tags/robotics"
                 }
               ],
               "version": "current",
@@ -1396,11 +1396,11 @@
               "sidebar": "module4Sidebar",
               "previous": {
                 "title": "VLA Architecture and Integration",
-                "permalink": "/physical-ai-humanoid-book/docs/module4/vla_architecture"
+                "permalink": "/docs/module4/vla_architecture"
               },
               "next": {
                 "title": "VLA Code Examples",
-                "permalink": "/physical-ai-humanoid-book/docs/module4/vla_examples"
+                "permalink": "/docs/module4/vla_examples"
               }
             }
           ],
@@ -1571,7 +1571,7 @@
     "default": [
       {
         "type": "jsx",
-        "permalink": "/physical-ai-humanoid-book/",
+        "permalink": "/",
         "source": "@site/src/pages/index.js"
       }
     ]
